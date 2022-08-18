@@ -1,0 +1,400 @@
+{
+    "title": "Hot",
+    "bpm": 112,
+    "time": 4,
+    "difficultyLv": 3,
+  "notes": [
+    {
+      "noteType": 2,
+      "noteTime": 5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 6
+    },
+    {
+      "noteType": 0,
+      "noteTime": 7
+    },
+    {
+      "noteType": 0,
+      "noteTime": 8
+    },
+    {
+      "noteType": 2,
+      "noteTime": 9
+    },
+    {
+      "noteType": 0,
+      "noteTime": 10
+    },
+    {
+      "noteType": 0,
+      "noteTime": 11
+    },
+    {
+      "noteType": 0,
+      "noteTime": 12
+    },
+    {
+      "noteType": 1,
+      "noteTime": 14.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 14.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 15
+    },
+    {
+      "noteType": 1,
+      "noteTime": 15.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 15.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 16
+    },
+    {
+      "noteType": 2,
+      "noteTime": 17.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 18.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 19.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 19.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 20
+    },
+    {
+      "noteType": 2,
+      "noteTime": 21
+    },
+    {
+      "noteType": 0,
+      "noteTime": 22
+    },
+    {
+      "noteType": 0,
+      "noteTime": 23
+    },
+    {
+      "noteType": 0,
+      "noteTime": 24
+    },
+    {
+      "noteType": 2,
+      "noteTime": 25
+    },
+    {
+      "noteType": 0,
+      "noteTime": 26
+    },
+    {
+      "noteType": 0,
+      "noteTime": 27
+    },
+    {
+      "noteType": 0,
+      "noteTime": 28
+    },
+    {
+      "noteType": 1,
+      "noteTime": 30.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 30.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 31
+    },
+    {
+      "noteType": 1,
+      "noteTime": 31.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 31.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 32
+    },
+    {
+      "noteType": 2,
+      "noteTime": 33
+    },
+    {
+      "noteType": 1,
+      "noteTime": 34.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 35
+    },
+    {
+      "noteType": 1,
+      "noteTime": 37
+    },
+    {
+      "noteType": 1,
+      "noteTime": 38
+    },
+    {
+      "noteType": 2,
+      "noteTime": 40.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 41.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 44.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 45.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 48.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 49.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 49.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 50
+    },
+    {
+      "noteType": 0,
+      "noteTime": 50.25
+    },
+    {
+      "noteType": 2,
+      "noteTime": 50.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 51.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 51.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 52
+    },
+    {
+      "noteType": 0,
+      "noteTime": 52.25
+    },
+    {
+      "noteType": 2,
+      "noteTime": 52.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 52.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 54
+    },
+    {
+      "noteType": 2,
+      "noteTime": 56.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 57.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 60.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 61.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 68.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 68.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 69
+    },
+    {
+      "noteType": 1,
+      "noteTime": 70
+    },
+    {
+      "noteType": 1,
+      "noteTime": 70.25
+    },
+    {
+      "noteType": 0,
+      "noteTime": 70.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 72.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 73.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 74.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 75.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 75.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 79.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 79.75
+    },
+    {
+      "noteType": 2,
+      "noteTime": 80.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 81.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 82.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 83.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 83.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 84.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 84.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 85
+    },
+    {
+      "noteType": 0,
+      "noteTime": 85.25
+    },
+    {
+      "noteType": 1,
+      "noteTime": 87.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 88.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 89.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 90.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 91.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 92.5
+    },
+    {
+      "noteType": 3,
+      "noteTime": 93.5
+    },
+    {
+      "noteType": 2,
+      "noteTime": 94.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 97.75
+    },
+    {
+      "noteType": 1,
+      "noteTime": 98
+    },
+    {
+      "noteType": 0,
+      "noteTime": 98.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 100.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 104.5
+    },
+    {
+      "noteType": 0,
+      "noteTime": 106.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 106.75
+    },
+    {
+      "noteType": 0,
+      "noteTime": 107.5
+    },
+    {
+      "noteType": 1,
+      "noteTime": 107.75
+    }
+  ]
+  }

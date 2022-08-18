@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b483a28150162647b189489760907fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - katsu: {fileID: 8300000, guid: 35819e689675a34479c10508d27b1c6c, type: 3}
+  - don: {fileID: 8300000, guid: 0f31894e8730a2a47a5363f993f7991e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

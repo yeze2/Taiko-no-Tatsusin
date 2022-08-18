@@ -1,0 +1,4907 @@
+fileFormatVersion: 2
+guid: cb369e28450359d438d191d6b3c7eec9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noteLane_0
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1770
+        width: 500
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74bc5de231e7f149a9048bbac271226
+      internalID: 1036729028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1739
+        width: 226
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b686a5a4e71334dbfbdf5b264ca299
+      internalID: 1519945284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1742
+        width: 192
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf9d06d73bb2940873176d94cf0803
+      internalID: 1774052256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1729
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889cddf6b41a2344b8631f8931b6817
+      internalID: 1531539360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_4
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1384
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b196995eb494bbe4ba3594cc1c39c84c
+      internalID: -1260266462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_6
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1729
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8989dbe601d64389ed39ac93819b1
+      internalID: 896696010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_7
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1384
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d812dd30cd87bb41b75af713840cff2
+      internalID: 315353288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_8
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1040
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ddf4263614e54a84a60e28fd53a56
+      internalID: -99944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_11
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1710
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe3023cce318f4c9f9cf08aa490f43
+      internalID: 1405101386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_14
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1886
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25936e951712a0f4d8d96e7400697477
+      internalID: 581652330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_15
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1905
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094fe8278cac274c97441c341383071
+      internalID: -1582775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_16
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1917
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afdf316386d924ba6b6f8359b06e2f
+      internalID: 68107010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_17
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1922
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8599b855a06049ae3137b087cf4cc
+      internalID: -1589555790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_18
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1917
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87ba72afde4c94da776d26db63aaaf
+      internalID: 829446803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_19
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1905
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba841fc3bbc8a4c8a998aa54a653be
+      internalID: -815059154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_20
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1886
+        width: 215
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad373b3744cdfe84fb4bb377b9b71199
+      internalID: -1281241738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_29
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1855
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3ba5de7cd0d5429ac8576d8228d1e
+      internalID: -482232419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_30
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1855
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361010ffb43c3243adfe6c17283e9cc
+      internalID: 409069343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_43
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1802
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b86d1a256bfe240a1d82c5f725cb6d
+      internalID: -1155498298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_44
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1755
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6789a4cffc9132c4c8dabf2b23aa4bac
+      internalID: -1524251633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_45
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1724
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7413d593ed508e4197184fb6eff8a3a
+      internalID: -1658147846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_46
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1724
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc90ae0aa2fb2694ab154607c0d69042
+      internalID: -1412496145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_47
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1755
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012eb4daf9f92a34ca20a2e2980c15a7
+      internalID: -226282134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_48
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1802
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c057d2154bdf7e4d9bbd20988040707
+      internalID: 1040738828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_50
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1714
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0697c4f0542a246b9629d7afa7e083
+      internalID: -1187356454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_53
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1367
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f532ed36c31c479fb59220c6c3220
+      internalID: -487356919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_54
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1572
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c365287384af04fa2106374df7ef04
+      internalID: -1809108105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_55
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1653
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc74f26caaa2b4298e92e311c13d8d
+      internalID: -961029370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_56
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1572
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e05aabb8f46a54da01fdd634b73dff
+      internalID: 1250597893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1414
+        width: 168
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1e630914e8114ca333effc9a11563
+      internalID: 1788198150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1415
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f9c329c1691843b6d4081a4af36bd
+      internalID: -1666933121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_70
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1541
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d82cf1d6eb4a447b94680b7778cb66
+      internalID: -2049341291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_71
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1560
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7872cd5578882774fb3dddc0639b3f54
+      internalID: -2027221823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_72
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1577
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63494477d2d49124da3ab0148e5cd1ea
+      internalID: 1676373114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_73
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1560
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40053e5fd454704499ac47f72464ff1d
+      internalID: 1125512014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_74
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1541
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2724be94a131a4cb3d99a2e359be57
+      internalID: 1736764404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_82
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1512
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101dc2f04dcdc5540a195f12139561ae
+      internalID: 2016324048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_83
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1512
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8699029f9e39d04a85c225def751822
+      internalID: 1238686391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_98
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1457
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681e723de2106447b8948258cf35812
+      internalID: -189554524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_99
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1411
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29f339f352b4149aa4c3feb69d665b
+      internalID: 1466996452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_100
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1380
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c1b613450b214d85f0db7a453a21d
+      internalID: 885307051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_101
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1369
+        width: 20
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5027a552226d2f41a0d78857a6f91ee
+      internalID: -1085881204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_102
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1380
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb828a7dee7deaf44819be7e33e725c6
+      internalID: -2033812721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_103
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1411
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35bb91e159e4de428ff30790276f1da
+      internalID: -1720115784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_104
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1457
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35331d1a441d01e448be55adeca75848
+      internalID: -1919519879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1188
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0132d9ac0c7a574aac7372c42fde628
+      internalID: -1307459605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_106
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1176
+        width: 20
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde8fe9889d2ed419816f2c3d1cb7ae
+      internalID: -604408121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_115
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1024
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19f9069847f2b4aaefac9cb87a728c
+      internalID: 54803491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_116
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1229
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc4a66b3a65244c8a8ead4264871a1
+      internalID: -1847210882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_117
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1291
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a59d5b622fb71b409eed6ceec5b5cbf
+      internalID: -378085551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_118
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1229
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fbb2ea7694a04d8ee308de3a9fa72
+      internalID: -2146963881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1084
+        width: 178
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f45de4240b4c4898f3e425186d1ad
+      internalID: -1616575462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_125
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1198
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560b762d1f13144eb1923c54611ce04
+      internalID: -986014565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_126
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1217
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469b6cc5c756b944abcddb26e277966
+      internalID: 848842080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_127
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 1233
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b24b0a9f7ee547a50ffb6e2c9de52
+      internalID: 1782781596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_128
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1217
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ae177047258d44497ae9a0ed6a7d0c
+      internalID: 1067842195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_129
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1198
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d58d10cb4a7e84a9e51eb996cb71a1
+      internalID: -720921624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_137
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1167
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276ffd0d4ff2fb4e8e6c96b3b780b59
+      internalID: -95322894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_138
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1167
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6548637bd840479d8dfc3707475b6
+      internalID: 882401436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_139
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 707
+        width: 6
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f90d2c2cdc6e4fa9941ac33f76237
+      internalID: -1732299824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_150
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1113
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce9d44979ba804c86e43a48b0e7198
+      internalID: 131182878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_151
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1068
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a5557473598c41b969bceb3c96dd7
+      internalID: 1090510839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_152
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1037
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f426984c65e5468412da10ae67f38
+      internalID: 539368644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_153
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1037
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4ee1c119c6a54db199f71d2cda405
+      internalID: -550775495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_154
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1068
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b133c073fd45c5749a3e71a153991163
+      internalID: 584177696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_155
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1113
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b872a627f2b98714faa6a20f5d2b8e25
+      internalID: -1345140202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_156
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 979
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd72859f0fb074ca03238f8217e072
+      internalID: 848855163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_160
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1026
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7daf29a69ec2b499f2c7d3c5e10322
+      internalID: 32785723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_161
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 754
+        width: 220
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c799cc74dd11f9043a8b843abf7a0ea4
+      internalID: -829962083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_168
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 680
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48356ae5b2e3a1c4b9ea9c64d2cb88ab
+      internalID: -1581841083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_169
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 872
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05612493d7acde74faa9527ea25418f3
+      internalID: 755109188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_170
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 884
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd0beeebbb7d749a5a50375f320110
+      internalID: -1325573035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_171
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 889
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bcd6fe9507862408728955c8cdae84
+      internalID: 345132141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_172
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 884
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa7a5964e847a4f99426f5cdb97b6c
+      internalID: 1380370578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_173
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 872
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a24cc8b91b66c418e23bc9e8bf8c04
+      internalID: -634451985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_174
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 800
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347dfb0f5a3fd641b1564ffc69373f2
+      internalID: -288931514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_175
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 936
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2a6ee752955584d9557ce12314feff
+      internalID: -1730400122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_176
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 755
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647db750d363fe48b9cb901438c86e8
+      internalID: -153745035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_178
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 853
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b892f684a12344e918e2bf1d4d37fb
+      internalID: -1062782523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_179
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 853
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54785e5eefb8cf498fce57f8bbbdd25
+      internalID: -1263435975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_180
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 846
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71049d4e5ccbb74ea46d938d61cff67
+      internalID: -2067954663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_189
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 824
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91333dd45d619f94e99dc811d406105c
+      internalID: -1693278533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_190
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 825
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c370a561a80e4f97a5c8e3443972c
+      internalID: -1807756407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_191
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 824
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc905c05f22654c9fe5d95ea6f66df
+      internalID: 2128363695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_192
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 824
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d32d9ef0fd4064c9fd0ad5747159e9
+      internalID: 507610291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_195
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 769
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c837847581a31458f84094fbbf7e52
+      internalID: -1873502613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_196
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 723
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551cdf43659b404dbcfff0c43342787
+      internalID: 334385033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_197
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 692
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14ebefaa698754c86588a0d17e265c
+      internalID: -785277869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_198
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 682
+        width: 22
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0663f168a8660478c36f05e1a7c453
+      internalID: -1063912851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_199
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 692
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423fab56f2ea8042924c2e98e68d4ad
+      internalID: 800240229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_200
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 723
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c5ba4a2ee424c4d9f49b6c5ed8a80b
+      internalID: -1995816549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_201
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 769
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf0a18b9bb3e54cb5ddf5499a46886
+      internalID: -116666089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_202
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 726
+        width: 137
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7a97574bda894fbd7c999b1e3c59f
+      internalID: 1620435998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_203
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 726
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383894625b525845aa2af09ac4cac5e
+      internalID: 1750184862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_204
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 718
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a289d97c09d1e469993df43169647b
+      internalID: -36946167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b2ef394d8e304eafc4b6e07cf49f5
+      internalID: 1797564636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_206
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 503
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524aa34ab029fe409f0fa4b6e2591aa
+      internalID: 293018136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_207
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 573
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8784d34df4f0419816242fed7c5e3
+      internalID: 905012679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_208
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 581
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852cdd9cdeffcc4e807303bb75e6377
+      internalID: 617937928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_209
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 584
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7cdfaaf2043bd4a827d6f0b30aba75
+      internalID: -297783642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_210
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 584
+        width: 13
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3f176105ceb942bbb5bb2893317c2
+      internalID: -1328440798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_211
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 581
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754d67861e73da4eba827bd163625f1
+      internalID: -2061158497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_212
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 573
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec565d7c8a6bce48b1ef3d47364d34d
+      internalID: -1270173436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_213
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 584
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66caf499f8a124409e2efa459a891bb
+      internalID: 1438005142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_214
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 583
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c643da2627923c438079d6cebae79e2
+      internalID: 2143970906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_215
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 639
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fffd94d06ec7b1429a6c998a3171dd8
+      internalID: 1049160085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_216
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 639
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4882b03d79775147b9f913b34ab0ef2
+      internalID: -491797548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_217
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 629
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e8e31839beca4a81984e5161b0fab
+      internalID: 1905157040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_218
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 528
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3393999cd2196340a824bea28f0f4bd
+      internalID: -209256964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_219
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 540
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e80941979cd74aa0325f2b9a1ce61
+      internalID: -1626911742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_220
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 545
+        width: 20
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6205ca77f266641a38e4d49f70ca20
+      internalID: -1606516666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_221
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 540
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1ac931a4580d4d8fe50aa26f4dd29
+      internalID: 1859843845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_222
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 528
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1f190e78d2794c882bb7a112b9d35
+      internalID: -896653122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_223
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 533
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18635791e2fb44db9f51bf079c6e25
+      internalID: 898833669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_224
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 550
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0fb471fcb2dc843916a9f6e62aafeb
+      internalID: 1864248344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_225
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 562
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969801fee5db9841baec9881337a8d9
+      internalID: 325592375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_226
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 562
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30043cb5279b88a43afdfc5472a6d428
+      internalID: -1649366675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_227
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 550
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6068f12f5b90204489dfae952f097b3
+      internalID: -1415595048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_228
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 533
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6516e9ec5240644886139f7da96788
+      internalID: -1977796680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_229
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 541
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c4d58dc62de44f832a1437c115af4
+      internalID: -80667491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_230
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 569
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccdc0c6a3013e14ba5cbf079565a262
+      internalID: -2114235619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_231
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 569
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480aa5c20b001404ea2580e4a35bf238
+      internalID: 931285992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_232
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 541
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11d6cb2a33cc174e8453747c536330d
+      internalID: -632364596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_233
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 551
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3256743c91fd39640aab07f770499c08
+      internalID: -59698903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_234
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 554
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9b8fe71e6a624ab68029d8d1560ef
+      internalID: 754884044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_235
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 509
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0af4c9fa337d444bb8785edba471ac
+      internalID: 461698633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_236
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 509
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b662ac6d50bc4b886a4376b603def
+      internalID: -993709708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_237
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 515
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967244318ba6cbd47a7e157d256aec06
+      internalID: 2014438020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_238
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 515
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef650e2a666fa1847bf455b9b4ef977f
+      internalID: -1614270720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_239
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 507
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4563cfaa434160c458b38b03dcff2cea
+      internalID: -1650234372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_240
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 507
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a538f279fff7a44b9b86b809d578eb6
+      internalID: 215057779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_241
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 457
+        width: 115
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cef451df783674c8a17aae76724cf7
+      internalID: 1520808307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_242
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 480
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7139eab7e5c5341a7bee3ec77630fa
+      internalID: 1646854687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_243
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 480
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c62b9b11e63f341a091d19a3e670cf
+      internalID: 1021673483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_244
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 497
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631331c930099044b2cd2d466a51a39
+      internalID: -1404443252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_245
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 497
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8850c412fd732274ebe8ea9f5285eca7
+      internalID: -843469100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_246
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 462
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d0406be7be4b4cb62f9d91d77c221
+      internalID: 343290369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_247
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27938e74f40bd6241a778b644aada089
+      internalID: 1164872132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_248
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 434
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a02875c4ff8d4f8439d47826b2649
+      internalID: -1729039768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_249
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 434
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75154a8a959cd0e4aaf247c496857a22
+      internalID: 1437869385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_250
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 468
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760caf054d30d746a52a300b7a9c6b8
+      internalID: 915939425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_251
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 468
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623033a3f00fb8e429e1f270fb91535d
+      internalID: 507684428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_252
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 454
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d297704449d804699236aebdb7cd3a
+      internalID: 1046496108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_253
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 454
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7585818dda338744911a13c96588c87
+      internalID: 1285167871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_254
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 394
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2d9c01e7d6ab41a288645824dcbec
+      internalID: -230707249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_255
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 368
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59282221839ee63498cbf071d3b234a6
+      internalID: -1288404655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_256
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 368
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e12fffedf1bd48b87926a7e5a8cfc
+      internalID: 717577552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_257
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 394
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b77730a19122a64588a7ecbdff7e509
+      internalID: 695713692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_258
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 437
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e11a2c4fe80aa439462702d44a9580
+      internalID: 314441094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_259
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 407
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4bb8d1772b11b45ada1b5b97d88a2e
+      internalID: -1269983664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_260
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 407
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0ddb250786764fb8e97f3582f3d23
+      internalID: -1914378044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_261
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 437
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92225201d25b242a6039a6bd86eaf1
+      internalID: 1337737306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_262
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 394
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ca1f33177c1b489e030264e7e20aa
+      internalID: 516957232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_263
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 394
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ebe2da29f12b4eb6fdcf5f0db230b
+      internalID: -2129069076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_264
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 359
+        width: 20
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b75d04a019d84f9cd6b221ed0e6ad
+      internalID: -668071535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_265
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 381
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb049831c682245ae1cef55abfac69
+      internalID: -1620468516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_266
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 357
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc017a42569fb94a86b00d6d57a8a57
+      internalID: 582365857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_267
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 340
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6560ceed071a75e4683864aef1ed9e6f
+      internalID: 1706390159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_268
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 327
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33addde3190b9144388e3ed57f10b020
+      internalID: 1709484702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_269
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 322
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba823100f8b4747a94abc8e3f1cc53
+      internalID: 1891108937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_270
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 322
+        width: 13
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3cc92519872d4986f66e4db8782f6
+      internalID: -1341934408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_271
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 328
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e3d1208daa18408a6007ff33d355c
+      internalID: -987002884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_272
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 340
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc29390e6f9a66e46acd9c8505356df8
+      internalID: 1970624993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_273
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 357
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f39ba4f176c964094ce5c72ecf1374
+      internalID: -826755724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_274
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 381
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74c716ba699aa4a91090e78327c3cf
+      internalID: -9419958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_275
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 348
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f019c6b357a347a2fcd91a2475176
+      internalID: 735872029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_276
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 323
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ec0732fd19b34d8a973b3491a6b9c
+      internalID: -1644501343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_277
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 323
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b972dffd127814a94102eb019817fc
+      internalID: -1862931345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_278
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 348
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504747554dbc084cafc4652ac047912
+      internalID: 715892893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_279
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 370
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea6b0f380809241bd9abe31e827c73
+      internalID: 1679793090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_280
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 371
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962424b3feddd4e499e428a4372e18b4
+      internalID: 847064988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_281
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 240
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c110e763345b409dd1d098382bd16
+      internalID: -1657539450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_283
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 82
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6a67e6aa3836498cdba72f21d7a46
+      internalID: 1035298175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_284
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 259
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053254409ff16141be371994d35a45a
+      internalID: -1371936289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_285
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 263
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2bd965fe292b4fa22fdfd0dce91a1
+      internalID: 710823246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_286
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 255
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe396c71d2c6e4c948aaf3c251bb0a
+      internalID: 1562268344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_287
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 112
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc2ce638d41f34d82a37f2d2d44d60
+      internalID: 1900514693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_288
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 112
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56585e67153447b4fa3f5568bf8fa5eb
+      internalID: -1349545112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_289
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 112
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e957bcbe32800d4699df00f7d7c6999
+      internalID: -2085153678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_290
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 246
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ea9a87fe91ba47a63dd8d569c9fe4
+      internalID: 312957184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_291
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 246
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1aea5297a3a04295a43bd9484fe0c
+      internalID: -1788977212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_292
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 239
+        width: 1424
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337ce978097da744a74d714027a5eb7
+      internalID: 609791939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_293
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 227
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6868d5681aec3c549aba6f1fb0c5fe5b
+      internalID: 814260745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_294
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 243
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f2db2b1141d545b9071f39697cf26
+      internalID: -1907061774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_295
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 239
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2f1d7f3a24fc4ba412a6c39e343b6
+      internalID: 957179367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_296
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 221
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f020db01539d40898f9ae71bc3fe5
+      internalID: -839176904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_297
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 148
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23931da8d50043d42a56890e5a69e9b7
+      internalID: 975066896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_298
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 199
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b588cc34ab7141a2ac62f71f2131e
+      internalID: 1061782769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_299
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 195
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3baaaefd7587842883d66fe1934833
+      internalID: -863818130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_300
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 159
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7a22487c64e643a9868de3ddbb867
+      internalID: 143734021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_301
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 169
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0c10fcf2a7014b98d80c6f229e934
+      internalID: 284840333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_302
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 166
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef73c6037bdbb84c9da85a50fc4508c
+      internalID: 1584463394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_303
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 142
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757091cf56d24f04eb6e80c836dc18c3
+      internalID: -529705589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_304
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 135
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48182a150d010f43af13b6582672a9e
+      internalID: -748970036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_305
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d454c8f4a08c488ffac4a1d5f8c8a
+      internalID: -1967440287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_306
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0de38f50abd44f942c0c090a670eb
+      internalID: 1631781681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_307
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 112
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f04e9e8d7dc74f99972cb172b5492
+      internalID: 155614336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_308
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 92
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4da85b6f0a7f447b96b2c911c256db
+      internalID: 1407913350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_309
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 87
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13f8e826af7a042b60a6a5b57fb0f9
+      internalID: -1817665631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_310
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 94
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f8faa913df8743b2e7cd08f9ac62a
+      internalID: 1727817597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_311
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 32
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235185dc051e5634da523b6e8005458a
+      internalID: -752773061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_312
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 32
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face6e920c45be549b4aacaeb4435fac
+      internalID: 210765357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_313
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 35
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc6aea5c789fb48a68b1d309c8b517
+      internalID: 1545259896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_314
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 0
+        width: 157
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f155a907753f4387ed51546bb08ff
+      internalID: 152130936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 1423
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185718775d8cce34ebd6cfb45f504238
+      internalID: 472424315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_316
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 41
+        width: 106
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6adeca9594b1f4aab89141ed711d62
+      internalID: 1140946694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_317
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 39
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8984fc5fcaca247a7149ea6f3db445
+      internalID: -1356968755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_318
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 1423
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192722769a8ceb43bc9047e4278ef4d
+      internalID: 217324916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_319
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1572
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d205952a2e1c7e448708cedd0741384
+      internalID: 712949460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_320
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1770
+        width: 497
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81b7991faa47e4abe6ab9dbb306d04
+      internalID: -1600911537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_5
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1041
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f7037b48040ed48afcb910a2a4949d
+      internalID: -343466560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noteLane_23
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 696
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8910e6f39ede58248974991d4c0d81ea
+      internalID: -300832836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      noteLane_267: 1706390159
+      noteLane_11: 1405101386
+      noteLane_62: 1836181401
+      noteLane_163: 468331135
+      noteLane_152: 539368644
+      noteLane_170: -1325573035
+      noteLane_210: -1328440798
+      noteLane_149: -1062991039
+      noteLane_253: 1285167871
+      noteLane_241: 1520808307
+      noteLane_10: 667463570
+      noteLane_159: 1034431946
+      noteLane_56: 1250597893
+      noteLane_258: 314441094
+      noteLane_309: -1817665631
+      noteLane_109: 1308851746
+      noteLane_305: -1967440287
+      noteLane_211: -2061158497
+      noteLane_175: -1730400122
+      noteLane_118: -2146963881
+      noteLane_142: -139709493
+      noteLane_209: -297783642
+      noteLane_192: 507610291
+      noteLane_288: -1349545112
+      noteLane_61: -1799022864
+      noteLane_232: -632364596
+      noteLane_238: -1614270720
+      noteLane_247: 1164872132
+      noteLane_235: 461698633
+      noteLane_50: -1187356454
+      noteLane_122: 126244317
+      noteLane_144: -242318285
+      noteLane_280: 847064988
+      noteLane_289: -2085153678
+      noteLane_139: -1732299824
+      noteLane_166: -455397720
+      noteLane_4: -1260266462
+      noteLane_28: 1637025589
+      noteLane_252: 1046496108
+      noteLane_224: 1864248344
+      noteLane_114: -292596901
+      noteLane_145: -504856289
+      noteLane_281: -1657539450
+      noteLane_303: -529705589
+      noteLane_106: -604408121
+      noteLane_226: -1649366675
+      noteLane_201: -116666089
+      noteLane_71: -2027221823
+      noteLane_300: 143734021
+      noteLane_66: -1662026347
+      noteLane_165: -296644564
+      noteLane_155: -1345140202
+      noteLane_237: 2014438020
+      noteLane_7: 315353288
+      noteLane_272: 1970624993
+      noteLane_179: -1263435975
+      noteLane_35: -2063907667
+      noteLane_275: 735872029
+      noteLane_113: 944053154
+      noteLane_318: 217324916
+      noteLane_283: 1035298175
+      noteLane_89: 1852943211
+      noteLane_261: 1337737306
+      noteLane_117: -378085551
+      noteLane_320: -1600911537
+      noteLane_220: -1606516666
+      noteLane_88: -1793600456
+      noteLane_67: -1208762856
+      noteLane_269: 1891108937
+      noteLane_214: 2143970906
+      noteLane_32: 1016405039
+      noteLane_287: 1900514693
+      noteLane_177: -784558465
+      noteLane_233: -59698903
+      noteLane_302: 1584463394
+      noteLane_276: -1644501343
+      noteLane_167: 552593981
+      noteLane_262: 516957232
+      noteLane_295: 957179367
+      noteLane_39: -1133432520
+      noteLane_99: 1466996452
+      noteLane_76: 135379254
+      noteLane_239: -1650234372
+      noteLane_37: 1918360279
+      noteLane_101: -1085881204
+      noteLane_153: -550775495
+      noteLane_284: -1371936289
+      noteLane_200: -1995816549
+      noteLane_219: -1626911742
+      noteLane_27: 675522395
+      noteLane_34: -1336492906
+      noteLane_266: 582365857
+      noteLane_188: 2090968902
+      noteLane_172: 1380370578
+      noteLane_150: 131182878
+      noteLane_86: 132141096
+      noteLane_15: -1582775082
+      noteLane_296: -839176904
+      noteLane_8: -99944004
+      noteLane_135: 11160873
+      noteLane_21: -184018715
+      noteLane_98: -189554524
+      noteLane_291: -1788977212
+      noteLane_94: 1151565631
+      noteLane_176: -153745035
+      noteLane_190: -1807756407
+      noteLane_110: 2107304393
+      noteLane_26: -1477637304
+      noteLane_116: -1847210882
+      noteLane_134: -463746636
+      noteLane_178: -1062782523
+      noteLane_96: 1961922565
+      noteLane_85: -1762666298
+      noteLane_130: -2009274275
+      noteLane_270: -1341934408
+      noteLane_245: -843469100
+      noteLane_206: 293018136
+      noteLane_9: 1147106733
+      noteLane_58: -1666933121
+      noteLane_204: -36946167
+      noteLane_93: 673006112
+      noteLane_243: 1021673483
+      noteLane_48: 1040738828
+      noteLane_69: 1393827378
+      noteLane_297: 975066896
+      noteLane_29: -482232419
+      noteLane_221: 1859843845
+      noteLane_65: -974516586
+      noteLane_112: -395954616
+      noteLane_44: -1524251633
+      noteLane_82: 2016324048
+      noteLane_215: 1049160085
+      noteLane_257: 695713692
+      noteLane_123: 337387293
+      noteLane_30: 409069343
+      noteLane_129: -720921624
+      noteLane_147: 2068126645
+      noteLane_174: -288931514
+      noteLane_285: 710823246
+      noteLane_52: 1286308240
+      noteLane_223: 898833669
+      noteLane_136: -1880645235
+      noteLane_5: -343466560
+      noteLane_81: 1891432166
+      noteLane_217: 1905157040
+      noteLane_133: 1813588080
+      noteLane_12: -1710848984
+      noteLane_111: -739538329
+      noteLane_248: -1729039768
+      noteLane_227: -1415595048
+      noteLane_277: -1862931345
+      noteLane_124: -565094640
+      noteLane_264: -668071535
+      noteLane_197: -785277869
+      noteLane_299: -863818130
+      noteLane_246: 343290369
+      noteLane_199: 800240229
+      noteLane_42: 535188175
+      noteLane_90: -2463322
+      noteLane_40: 735356438
+      noteLane_225: 325592375
+      noteLane_202: 1620435998
+      noteLane_100: 885307051
+      noteLane_126: 848842080
+      noteLane_156: 848855163
+      noteLane_132: 1278509912
+      noteLane_260: -1914378044
+      noteLane_278: 715892893
+      noteLane_143: -269034872
+      noteLane_19: -815059154
+      noteLane_103: -1720115784
+      noteLane_231: 931285992
+      noteLane_240: 215057779
+      noteLane_108: 277788279
+      noteLane_83: 1238686391
+      noteLane_41: -986348668
+      noteLane_146: -368234187
+      noteLane_308: 1407913350
+      noteLane_95: 577602634
+      noteLane_314: 152130936
+      noteLane_87: -108911906
+      noteLane_137: -95322894
+      noteLane_55: -961029370
+      noteLane_205: 1797564636
+      noteLane_63: -758737374
+      noteLane_268: 1709484702
+      noteLane_141: 1509522178
+      noteLane_18: 829446803
+      noteLane_148: 502308906
+      noteLane_13: -1309380912
+      noteLane_33: 701535010
+      noteLane_315: 472424315
+      noteLane_168: -1581841083
+      noteLane_169: 755109188
+      noteLane_222: -896653122
+      noteLane_319: 712949460
+      noteLane_182: 100790843
+      noteLane_306: 1631781681
+      noteLane_203: 1750184862
+      noteLane_230: -2114235619
+      noteLane_186: -1970215781
+      noteLane_17: -1589555790
+      noteLane_279: 1679793090
+      noteLane_312: 210765357
+      noteLane_158: -1207385922
+      noteLane_138: 882401436
+      noteLane_54: -1809108105
+      noteLane_154: 584177696
+      noteLane_292: 609791939
+      noteLane_25: 1017595424
+      noteLane_293: 814260745
+      noteLane_161: -829962083
+      noteLane_234: 754884044
+      noteLane_80: -1723013984
+      noteLane_59: -1081428116
+      noteLane_14: 581652330
+      noteLane_105: -1307459605
+      noteLane_301: 284840333
+      noteLane_274: -9419958
+      noteLane_193: -1548506882
+      noteLane_0: 1036729028
+      noteLane_191: 2128363695
+      noteLane_23: -300832836
+      noteLane_51: 1834103457
+      noteLane_104: -1919519879
+      noteLane_207: 905012679
+      noteLane_2: 1774052256
+      noteLane_213: 1438005142
+      noteLane_256: 717577552
+      noteLane_310: 1727817597
+      noteLane_160: 32785723
+      noteLane_254: -230707249
+      noteLane_22: 2022843063
+      noteLane_36: 186024901
+      noteLane_24: 1137626089
+      noteLane_181: -813157925
+      noteLane_57: 1788198150
+      noteLane_185: -297839408
+      noteLane_3: 1531539360
+      noteLane_244: -1404443252
+      noteLane_255: -1288404655
+      noteLane_68: -1534499866
+      noteLane_229: -80667491
+      noteLane_121: 198350728
+      noteLane_307: 155614336
+      noteLane_273: -826755724
+      noteLane_64: -856895871
+      noteLane_294: -1907061774
+      noteLane_75: -1110925081
+      noteLane_125: -986014565
+      noteLane_16: 68107010
+      noteLane_194: 2114633213
+      noteLane_47: -226282134
+      noteLane_140: -1858162805
+      noteLane_78: 845355273
+      noteLane_184: -277913931
+      noteLane_313: 1545259896
+      noteLane_72: 1676373114
+      noteLane_120: 1102231278
+      noteLane_304: -748970036
+      noteLane_212: -1270173436
+      noteLane_286: 1562268344
+      noteLane_228: -1977796680
+      noteLane_242: 1646854687
+      noteLane_311: -752773061
+      noteLane_70: -2049341291
+      noteLane_317: -1356968755
+      noteLane_263: -2129069076
+      noteLane_43: -1155498298
+      noteLane_1: 1519945284
+      noteLane_127: 1782781596
+      noteLane_97: 251676017
+      noteLane_53: -487356919
+      noteLane_74: 1736764404
+      noteLane_115: 54803491
+      noteLane_73: 1125512014
+      noteLane_84: 1840841175
+      noteLane_250: 915939425
+      noteLane_171: 345132141
+      noteLane_128: 1067842195
+      noteLane_157: -1788367366
+      noteLane_60: -1875534733
+      noteLane_164: -1605072598
+      noteLane_180: -2067954663
+      noteLane_173: -634451985
+      noteLane_92: 63407405
+      noteLane_151: 1090510839
+      noteLane_187: 296945824
+      noteLane_189: -1693278533
+      noteLane_251: 507684428
+      noteLane_46: -1412496145
+      noteLane_195: -1873502613
+      noteLane_208: 617937928
+      noteLane_290: 312957184
+      noteLane_198: -1063912851
+      noteLane_131: -2052252638
+      noteLane_271: -987002884
+      noteLane_236: -993709708
+      noteLane_107: -182991339
+      noteLane_162: 200726238
+      noteLane_49: -1100355717
+      noteLane_282: -837302559
+      noteLane_259: -1269983664
+      noteLane_102: -2033812721
+      noteLane_196: 334385033
+      noteLane_265: -1620468516
+      noteLane_45: -1658147846
+      noteLane_6: 896696010
+      noteLane_79: 1431530116
+      noteLane_218: -209256964
+      noteLane_20: -1281241738
+      noteLane_31: -1976142121
+      noteLane_77: -1516085817
+      noteLane_38: 433601051
+      noteLane_298: 1061782769
+      noteLane_119: -1616575462
+      noteLane_216: -491797548
+      noteLane_91: -1073341444
+      noteLane_249: 1437869385
+      noteLane_183: 582289068
+      noteLane_316: 1140946694
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

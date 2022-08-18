@@ -1,0 +1,5237 @@
+fileFormatVersion: 2
+guid: c099c917b65a5eb4dbfe9440c13d5bd7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scoreBoard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3278
+        width: 1295
+        height: 804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b65e6af83e03244692cceeb1e4530d3
+      internalID: 260360464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_1
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3842
+        width: 606
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e460219b3b86240bd7d702980b488a
+      internalID: 867072182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_2
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 3009
+        width: 795
+        height: 1076
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e728ac24051a419d0972abca67310
+      internalID: 145674296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_3
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 2390
+        width: 910
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2ea7db1f8038439b0273d49442eb0
+      internalID: 104143563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_11
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 3884
+        width: 187
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce5c9c8a7e052459e9824556610ceb
+      internalID: 2321932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_12
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 3750
+        width: 508
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11e94b22a931644b9f3d736faa1d3a
+      internalID: 1148714684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_13
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 3936
+        width: 737
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b36ea13bb9c5444afcf21f82e5b6f3
+      internalID: 1430358000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_14
+      rect:
+        serializedVersion: 2
+        x: 7463
+        y: 3882
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5c7a3395f8fd42a98990ccd74eb24
+      internalID: -423759820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_15
+      rect:
+        serializedVersion: 2
+        x: 7682
+        y: 3916
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf7f3faa91b934eacdcb4ca7e8cacc
+      internalID: 848877904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_16
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 3916
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269249bbc5552346a168015358a9d1f
+      internalID: -1412851323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_20
+      rect:
+        serializedVersion: 2
+        x: 6701
+        y: 3748
+        width: 745
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ada7c30f242434dac487a50a7d4f15
+      internalID: 900452056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_28
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 3760
+        width: 225
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cbd81733c4d443a75f645bbfd0cbc
+      internalID: 222322652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_29
+      rect:
+        serializedVersion: 2
+        x: 7463
+        y: 3666
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b281c411b515844bf457f5b086bde5
+      internalID: -258203275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_30
+      rect:
+        serializedVersion: 2
+        x: 7682
+        y: 3725
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08cf4de007e43448248a2ec331009d
+      internalID: 264696230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_31
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 3725
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdcfefa5fb3ca409d2281864ecdd4b
+      internalID: -1284766080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_32
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3593
+        width: 606
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be256a5c172601f4ba4e2fb56f061384
+      internalID: -1911545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_33
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 3288
+        width: 1044
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05146c6ecf5707d4198ab8af60d9285e
+      internalID: -1174906097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_34
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 3113
+        width: 51
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0bdc5f44475934c947af892de41944
+      internalID: 1176300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_35
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 3398
+        width: 498
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e626f0a0c5714489c35f6f1d5ffa5
+      internalID: 179628666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_36
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 3577
+        width: 738
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06758438fe92192489adbe8cfc23a394
+      internalID: 1407878224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_37
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 3561
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426eb5c5b7310504c99ff3c352428399
+      internalID: -40940714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_38
+      rect:
+        serializedVersion: 2
+        x: 7778
+        y: 3561
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8641677ded8be040956aeefc97c51bb
+      internalID: -2074015659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_39
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3358
+        width: 612
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee676beda474844ebfd30e14b10f67e
+      internalID: -1906150124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_40
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 2995
+        width: 429
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e212d236b34879748aea65c3a9266785
+      internalID: -1935874505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_41
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 3059
+        width: 494
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da7f39e39a128f4ca0a51f1aa38e57b
+      internalID: -108849109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_42
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 3238
+        width: 147
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178614a3ad4a8fd4d95090608d24eda3
+      internalID: -496665674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_43
+      rect:
+        serializedVersion: 2
+        x: 6713
+        y: 3378
+        width: 379
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98674f82fd1992d46834b1d0719a4186
+      internalID: -2005587517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_44
+      rect:
+        serializedVersion: 2
+        x: 6885
+        y: 3266
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd1564985ba0147b9c1d15cd368fa3
+      internalID: 374024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_45
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 3250
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f55f90d8edb14ea15a970d63960e7
+      internalID: 1459702939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_46
+      rect:
+        serializedVersion: 2
+        x: 7137
+        y: 3139
+        width: 188
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe72897fb5360494faf249c6fd6f262f
+      internalID: 995978388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_47
+      rect:
+        serializedVersion: 2
+        x: 7138
+        y: 3354
+        width: 187
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0227ae942be2b0448906a5e83976379
+      internalID: 1632308698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_48
+      rect:
+        serializedVersion: 2
+        x: 7351
+        y: 3139
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2db7f4bfd18145b000ca29f39c157
+      internalID: 912049781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_49
+      rect:
+        serializedVersion: 2
+        x: 7351
+        y: 3358
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01089fff98d4184d98087d551ce0a89
+      internalID: 1481976786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_50
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3354
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45fd3a4df24074468e7d91f566cfb52
+      internalID: -840806279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_51
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3136
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c395e881ba6774793cee21c3596e6e
+      internalID: -1248428386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_52
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 3388
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bccc482260e8445a2a4c6284db40b7
+      internalID: 620363884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_53
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 3196
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8026800516bed44ab2d523ec2faef72
+      internalID: -1091520399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_54
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 3242
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b44e3826973143bb0d44c21aebaf8
+      internalID: -1887536732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_55
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 3338
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6bc42da04321a409b4f20972895d75
+      internalID: -1880540448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_56
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 3279
+        width: 197
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d251ff1a652ca1478d0258d2b49020e
+      internalID: -47251410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2473
+        width: 1291
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a73ca273dd59f4a87f8aa90665371f
+      internalID: 503435041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_58
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2848
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c43e34d2be16d4baa4ee9747118fca
+      internalID: 387830106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_59
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3117
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69cd3c37daf31048af499c777c8565e
+      internalID: 1849500972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_60
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 2816
+        width: 621
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfba7c237d41af4faf0060270f24b75
+      internalID: 1859412066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_61
+      rect:
+        serializedVersion: 2
+        x: 6781
+        y: 3173
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f8b3d85a92777479413d8ae24853b1
+      internalID: -1937328340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_62
+      rect:
+        serializedVersion: 2
+        x: 6937
+        y: 3182
+        width: 142
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9eaee3160d3f34d967d4dd31d1e528
+      internalID: 1456772489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_63
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 3146
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e50708481bb443aa9bd9616b1b339
+      internalID: -1361961874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_64
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 3075
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a747c58908f3f45825946d7da22469
+      internalID: -762601671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_65
+      rect:
+        serializedVersion: 2
+        x: 6701
+        y: 3059
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f3fea4ab49354b8f2133570173162
+      internalID: -1073236842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_66
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 3095
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac2e3cfcac8ff4c88252ba7ca54141
+      internalID: 942243222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_67
+      rect:
+        serializedVersion: 2
+        x: 6897
+        y: 3103
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1fa54627ada94da34ae36133886a7
+      internalID: 775047556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_68
+      rect:
+        serializedVersion: 2
+        x: 7060
+        y: 3099
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f46934bf0562843aedddb4ca7ea09b
+      internalID: -900227554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_69
+      rect:
+        serializedVersion: 2
+        x: 7149
+        y: 3031
+        width: 268
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164a608a3b9df94895046b6284ff51e
+      internalID: -1857187566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_70
+      rect:
+        serializedVersion: 2
+        x: 7437
+        y: 3031
+        width: 280
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d020b41d4728f4e862b54366c690ac
+      internalID: 716691178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_71
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 3004
+        width: 166
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565eda36c5b05d4c971fdaf3024c29f
+      internalID: -1298347616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_72
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 3047
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b168eacfc8804c802b4829ecf43e2
+      internalID: 213376670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_73
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 3035
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca785b717e143b4aaf6bb8057206520
+      internalID: -607956911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_74
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 2983
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bcec6a9fb469b448ea98de305db297
+      internalID: 894789497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_75
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 2975
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631ed7b195fbfa499872959d85f4204
+      internalID: -610507662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_76
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 3003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa5fd57044c684d9fed7de485a7bda
+      internalID: 25329681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_77
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 2995
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9584f72f9fb69f14db037120fdd8deca
+      internalID: 34153442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_78
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 2705
+        width: 493
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c546f26ebf8e3d409399e6bb5d35c25
+      internalID: -280727322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_79
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 2991
+        width: 171
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2edd84e48520ec498577b9d11cb98e3
+      internalID: 1488818033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_80
+      rect:
+        serializedVersion: 2
+        x: 7311
+        y: 2991
+        width: 175
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e338f454849a4a9d790d89baaf899
+      internalID: 1124376777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_81
+      rect:
+        serializedVersion: 2
+        x: 7498
+        y: 2991
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d7e3d3768bdf48ae2a1f2737c53ec
+      internalID: -1818599559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_82
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2681
+        width: 820
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e91c511bb9ac4db4ceeba7c1aef11
+      internalID: 744664371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_83
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 2774
+        width: 937
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54342033c99252b469dd07c5a56f837d
+      internalID: -757636103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_84
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 2788
+        width: 379
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1f28da0eee104f996e823bffa1e5c
+      internalID: 66422259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_85
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 2899
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9716f3b76910f4f945a82b3233db1f
+      internalID: 600470897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_86
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 2761
+        width: 281
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4a09783ea093428d29ebd25e620cc
+      internalID: -1020811886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_87
+      rect:
+        serializedVersion: 2
+        x: 7006
+        y: 2754
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5415681e31b8146b3eadec9e5ee9c3
+      internalID: -753030726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_88
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 2756
+        width: 188
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c11fe7b16fad44a1796b436d56ccc
+      internalID: -26109913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_89
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 2754
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee0f4e04a705a40bb08e274449b366
+      internalID: 273582701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_90
+      rect:
+        serializedVersion: 2
+        x: 7658
+        y: 2788
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258481e5e77bdc4bbed1aad091eda65
+      internalID: -694314655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_91
+      rect:
+        serializedVersion: 2
+        x: 7849
+        y: 2788
+        width: 166
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c562bdf377ad49903ef425b0c1bfb
+      internalID: -366871009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_92
+      rect:
+        serializedVersion: 2
+        x: 8029
+        y: 2871
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3018d13ec6004f9e34308d9d79904
+      internalID: -1710865346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_93
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2570
+        width: 605
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8446defb73f0b9488057a544c020fbf
+      internalID: -338477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_94
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 2812
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c7c2d308f7c7448bafc65d83bf741
+      internalID: -217281567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_95
+      rect:
+        serializedVersion: 2
+        x: 8029
+        y: 2776
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f78f8489ac2f974dbe82f2946b71c27
+      internalID: -831835370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_96
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 2477
+        width: 838
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b6af212f78a849975b2104dc29d01
+      internalID: 985527966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_97
+      rect:
+        serializedVersion: 2
+        x: 5879
+        y: 2589
+        width: 200
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7dee16df4294e4e8aad87facc09cf9
+      internalID: -637419604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_98
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2740
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d30444915781b4ebbe44152d0e6116
+      internalID: 371290692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_99
+      rect:
+        serializedVersion: 2
+        x: 6698
+        y: 2696
+        width: 190
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7d5fca3ef62f4b992d404cdb2233c
+      internalID: 2019860675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_100
+      rect:
+        serializedVersion: 2
+        x: 7646
+        y: 2728
+        width: 175
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d5acb162796884fb4fcda528bb27a0
+      internalID: 1315673657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_101
+      rect:
+        serializedVersion: 2
+        x: 7961
+        y: 2473
+        width: 201
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde755dc60acd5d4b9404c3b12be61fe
+      internalID: 1046573927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_102
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2700
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d420f43d9fcf428528f86be20946b
+      internalID: 1402560149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_103
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2454
+        width: 937
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af53a0eeea75b4982a66b965c914e3
+      internalID: -1649254489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_104
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2660
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28469ad832844049b82c50f2845bf60
+      internalID: 1363370216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_105
+      rect:
+        serializedVersion: 2
+        x: 6176
+        y: 2541
+        width: 665
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205b3eaba7d5da4b804e12547f0c339
+      internalID: 1112335070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_106
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 2491
+        width: 187
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9532db78eaf7743a8f19bdec4fc306
+      internalID: -1356971592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_107
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 2489
+        width: 206
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f026648b11ba243bc6e4ce566d1968
+      internalID: -2112740444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_108
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 2491
+        width: 188
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6918d974a4d7b46b706ab560b214d8
+      internalID: 1434100661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_109
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 2490
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccaa3eb14533f640b78463a4c3ea81e
+      internalID: 1522022641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_110
+      rect:
+        serializedVersion: 2
+        x: 7773
+        y: 2525
+        width: 166
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf771299782afa846bb5bcd82c6a492c
+      internalID: 2088383719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_111
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2362
+        width: 786
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58317d7f4bbbd84993e6d4f7019dadb
+      internalID: -1825585988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_112
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2620
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9051b8cdac65ff44b713fdc96ae84ae
+      internalID: -465815182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_113
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2581
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36531a544af04c46970fc993ce112ce
+      internalID: 4149536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_114
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 2397
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba991df1d9a17f42ac546f44d6751fb
+      internalID: 505632023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_115
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 2473
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b789ec4f71084445b2f6f6d472dd618
+      internalID: -1500133760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_116
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 2366
+        width: 727
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbaf22a24cdda0479f1079ff6a54d74
+      internalID: 1274445872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_117
+      rect:
+        serializedVersion: 2
+        x: 7773
+        y: 2331
+        width: 166
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad959337f30b62944b355dcecb63183c
+      internalID: 1319489125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2151
+        width: 821
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1b348f2eb84a40a7625b2d4ffe3d2
+      internalID: 2023620144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_119
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2134
+        width: 834
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1aa5aac22d864d9e3675cd98fe81a
+      internalID: 1011223473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_120
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2174
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e4446e566f89d4ab1b400fe65c6faf
+      internalID: 831136099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_121
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2238
+        width: 917
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43519baf126df3143a4d38eb24260b69
+      internalID: -692181704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_122
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 2385
+        width: 326
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bbb6d76c0a98742909de45a565c0ff
+      internalID: -783578098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_123
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 2385
+        width: 323
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b877212e6662624081eaeea1b0a9550
+      internalID: 1604514175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_124
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 2385
+        width: 171
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca79248acfc7741a41af481e923562
+      internalID: 35878319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_125
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 2397
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc5dab39b8a7f44b4a0285685876db
+      internalID: -1938194538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_126
+      rect:
+        serializedVersion: 2
+        x: 6905
+        y: 2278
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1871783aef4bc3649896bc5371423738
+      internalID: -1645680687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_127
+      rect:
+        serializedVersion: 2
+        x: 7125
+        y: 2274
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770c46660880b04e966b8cb8d08302c
+      internalID: 2123230466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_128
+      rect:
+        serializedVersion: 2
+        x: 7337
+        y: 2278
+        width: 197
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f9df01c05b154aae8cd720e7529f9
+      internalID: 208669675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_129
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 2274
+        width: 198
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0811bdd7b5efca943b3190a053f30271
+      internalID: 738420745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_130
+      rect:
+        serializedVersion: 2
+        x: 7973
+        y: 2365
+        width: 183
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a79e21d0b24647947a32b47f41079
+      internalID: -925099612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_131
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2043
+        width: 786
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e1c434c13356c4a84018957c08acb5
+      internalID: 1385487198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_132
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 2198
+        width: 1926
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f27e83f1ab804429f6d5382c9a9bd5
+      internalID: 1561086784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_133
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 2286
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd908948d6fe0844ba72ce2b0115629
+      internalID: -528327781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_134
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 2187
+        width: 730
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885af32e4c4770844ae8d1e408deeed0
+      internalID: 412181816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_135
+      rect:
+        serializedVersion: 2
+        x: 7773
+        y: 2140
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1d0c991ca21047b81be04f3a45f81
+      internalID: 819674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_136
+      rect:
+        serializedVersion: 2
+        x: 7957
+        y: 2206
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a6e18a90ab6544bc7c15b2d0c1a2c
+      internalID: 1808217283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_137
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 2206
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f445a52b4362438a582bd9c4b873b
+      internalID: -293970753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_138
+      rect:
+        serializedVersion: 2
+        x: 6905
+        y: 2059
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e5348bb0c6c81419dcb5a18cca0997
+      internalID: 443332669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_139
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 2059
+        width: 187
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305514f0a2c0b2428ec28c5c02a67e2
+      internalID: 1275982386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_140
+      rect:
+        serializedVersion: 2
+        x: 7339
+        y: 2060
+        width: 195
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623911c2db1a4840b3e67c4a1b39adb
+      internalID: -205878304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_141
+      rect:
+        serializedVersion: 2
+        x: 7548
+        y: 2056
+        width: 205
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c34a27bcea3e449fc55ab25e4f221
+      internalID: -576552499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_142
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 2079
+        width: 329
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3024b509c660458c18a85fbfef285
+      internalID: -1559434528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_143
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 2079
+        width: 330
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6a18a22a5bef34b95ff7670bd4cca4
+      internalID: 943656676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_144
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 2079
+        width: 331
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc38e603990b04486425d7224426e2
+      internalID: 941291076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_145
+      rect:
+        serializedVersion: 2
+        x: 5159
+        y: 2079
+        width: 329
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92088ff3f4d945f44832d771a9d9f26e
+      internalID: 1357207044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_146
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 2079
+        width: 330
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848f0c47916ae1459f45aeaf4b1fd7a
+      internalID: 1749431583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_147
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 2096
+        width: 191
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c9feded5358e45a0dd7fd4cd460fc
+      internalID: 1435246254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_148
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2118
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81f6eb756b45342906abae0aa127dd
+      internalID: 670097112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_149
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 2091
+        width: 452
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7ec543a30f6a4eb456d6fd7b240ce
+      internalID: 1941549949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_150
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 2066
+        width: 207
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748b6be58c8e92443b8eec6d8777d96f
+      internalID: 1065306828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_151
+      rect:
+        serializedVersion: 2
+        x: 7954
+        y: 2074
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086149800df5414db19cbaf038ee8cd
+      internalID: 1522278081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_152
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 2079
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993eb8001bcabce4a80d47a653eb7443
+      internalID: -7563997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_153
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 2074
+        width: 95
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162db7c807553ed44bc63fba6a4537ad
+      internalID: -1683046193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_154
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 2043
+        width: 960
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b924554ddc62a41a97a17ed81d4eab
+      internalID: 848053427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_155
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 2047
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a5cdbaaf91944e9b0149ea38339a0
+      internalID: -1762056369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_156
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 2047
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069c3c842126ce49a3cc123f8134265
+      internalID: -1514184194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_157
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 2047
+        width: 192
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b7a3d0992b554cbf4651c89515453
+      internalID: 746677735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1231
+        width: 1269
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c42135512ff049b685b8c6e2760ca
+      internalID: 724707677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_159
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1805
+        width: 612
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72623d88dd4a44045af85d0cd764c928
+      internalID: -947333966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_160
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 951
+        width: 961
+        height: 1091
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f7fc80ea0c364bac075d25503453b
+      internalID: -246529793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_161
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1740
+        width: 842
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7a0eb8a75c7f43aa8bf52eb054d19
+      internalID: -971255724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_162
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 1565
+        width: 454
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c3e92c3176a745b5b193e3458deec
+      internalID: 320286386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_166
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 1955
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659dd4f62013ea24bae91fd191f0404f
+      internalID: 851775170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_167
+      rect:
+        serializedVersion: 2
+        x: 6146
+        y: 1753
+        width: 831
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 30, z: 42, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ad7857d24e0d48bb6ccdd7a5317f9
+      internalID: -1084067732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_168
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 1684
+        width: 426
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f877fc602a0a4993acddfb03d6703
+      internalID: 1145348251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_169
+      rect:
+        serializedVersion: 2
+        x: 7457
+        y: 1949
+        width: 255
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 16, z: 16, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea74139128c5df46bb7f107a0009c89
+      internalID: -1510837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_174
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 1867
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26eb78e8e9cb4468f8e7484ae34ce4
+      internalID: -1520005299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_175
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 1863
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bfa6783926634428f6fe2e56abbff4
+      internalID: -47469843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_176
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1565
+        width: 614
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337456584c4f1994da635d3fac5161ee
+      internalID: -1723680744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_178
+      rect:
+        serializedVersion: 2
+        x: 6052
+        y: 1779
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eea1ebf8374e46a1248ec26c0df53
+      internalID: 597304595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_179
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 1776
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db991048d4957f4ab3051d2539a7e79
+      internalID: 1886294119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_180
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1397
+        width: 842
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78112566310f7814a83fba4ebc7ac377
+      internalID: 344810865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_181
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 1528
+        width: 560
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a8f396857a0941a0d2e8b356e400b
+      internalID: -1544024036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_183
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 1692
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1eeba0855042546851b802a6180549
+      internalID: -1339249675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_184
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 1397
+        width: 843
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5225b418ff89408ad93391f27a143
+      internalID: 657528293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_185
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 1668
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfe870a59bae74b903f0b83ad89030
+      internalID: -534293805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_187
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 1604
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28611b0c33688504589f206081e6455b
+      internalID: 621973320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_188
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 1315
+        width: 426
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2dace2b31f02f4ea3e1610b07dd579
+      internalID: -1951210854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_190
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1548
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c33405e3761ed44bcb14a5d1fa954c
+      internalID: -1623843656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_191
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 1564
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84266abe5549646bc3f7d2d41c2526
+      internalID: -822311537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_192
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1214
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79336191b7cd54896494e4755f0790
+      internalID: -537186805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_193
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 1011
+        width: 518
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a94b8b39208024ea7d20326117c163
+      internalID: -1650396263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_194
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 1178
+        width: 497
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a428e42056c6f5a4fbdf6ae2b48806e4
+      internalID: 1208415295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_195
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1437
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e9b34285002344380aa12c83ee4c89
+      internalID: -1642107364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_196
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 1461
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f805d9f2a01144ab2cb9ecc18ba34f
+      internalID: 904005091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_197
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1349
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405afd19015bb64d842980df9dd5c38
+      internalID: -1752180074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_198
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 1373
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419243d5ed89c894fa1398953ed8682e
+      internalID: 1838208506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_199
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1052
+        width: 842
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423601d54f7bfe4cbc47b80a03199ba
+      internalID: -111959518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_200
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1261
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74586c60741e812418db7c50968754d3
+      internalID: 1287639712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_201
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 1052
+        width: 842
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304549bca0a983f46a74ae116e5bbea9
+      internalID: 1907268165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_202
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 1305
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ca48b4c7675e4595e72b9df42ab3e
+      internalID: 745551598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_203
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 1234
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd4dd6526256e458bc8f29aa2bcad1
+      internalID: -1787074299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_204
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 430
+        width: 1262
+        height: 795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c97401b62d12149b63f9c615e2aeb4
+      internalID: 737856761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_205
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1059
+        width: 580
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e3b806ed817041a5f7afae99b7efd
+      internalID: -1611847116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_206
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 1162
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e9bbdb3a619d47b5327e0f535d44d
+      internalID: -1917389646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_207
+      rect:
+        serializedVersion: 2
+        x: 5554
+        y: 839
+        width: 501
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c37f38564ca4849b4c5a3d2d55120c
+      internalID: 409897312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_208
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 1090
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72cbbad37251f45aedc21bf2b531c5
+      internalID: -1031969583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_209
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 915
+        width: 580
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c80ac266457df4f9f027411595aae0
+      internalID: 1115526695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_210
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 1019
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa8b678910a3c40b0aaf758ab797ec
+      internalID: -382965632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_211
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 696
+        width: 802
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2889d36613a924b45b4dedc52c86cffe
+      internalID: 1606455824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_212
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 741
+        width: 850
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658b6b2a560acb4da6a408b7c7e52de
+      internalID: 1400706243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_213
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 708
+        width: 842
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55414344cc825a047980ecbafad2893e
+      internalID: -231659463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_215
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 708
+        width: 843
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30641da5362e50b459f56480cb0101bf
+      internalID: -1863121199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_216
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 948
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9fc72b67bae2d4b8d83726a69db0c4
+      internalID: 159524274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_217
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 772
+        width: 582
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37a334cc849964e8f107a5386ba4b0
+      internalID: 375807551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_218
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 483
+        width: 518
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc97a479a7d7842af0ed95a39eb3a5
+      internalID: -264937574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_219
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 875
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd43f1aa6101a84586d849dd04aa28b
+      internalID: 491685958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_220
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 532
+        width: 290
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe207efbaa936b046a8835bbb792102a
+      internalID: -409266228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_221
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 803
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092f4b35c42dd646a057bf6ff36b8db
+      internalID: -1500987465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_223
+      rect:
+        serializedVersion: 2
+        x: 5803
+        y: 624
+        width: 320
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e984d1c6acf36428769f9f7ee36539
+      internalID: -1066572817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_224
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 727
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32ea64a7cd7d545b1f40ed62373d1c
+      internalID: 784247353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_225
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 430
+        width: 802
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72787c73084a4324e9dc54cb08326b8f
+      internalID: -644762323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_226
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 365
+        width: 842
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 41, z: 49, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c141ffeb1a55a841b2980788ba6780f
+      internalID: -2054051090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_230
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 365
+        width: 843
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b10d6d0cf617489134599c8ef53bc
+      internalID: 1884230584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_231
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 656
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfb4405798bc694caa026c192db3566
+      internalID: -951859808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_232
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 528
+        width: 267
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd01584773c8d45acb8fd0b8cf3490
+      internalID: 1922247527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_233
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 584
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf5c7e82f5ddb40b44d76d9cdea407
+      internalID: 976538375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_234
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 488
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9b8e5073992c4ca8d478f55ed81b4
+      internalID: -2086658640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_235
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 516
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa3e769cc3e1e45beb7c97d8226878
+      internalID: -1721473308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_236
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 142
+        width: 508
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c4ee00c2de8a43ae2c18e7907900f
+      internalID: -2008052244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_237
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 142
+        width: 489
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30249039946940340bc4c14322b8e779
+      internalID: -1869096628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_238
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 441
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3140d677b5a1041a4c872320de9863
+      internalID: -501160470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_239
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 835
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5a91cd630fb0d45bbbf33474f5f469
+      internalID: 629012873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_240
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 211
+        width: 856
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e78fef163274f44ad5fa7ffccbb441
+      internalID: -1922860876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_241
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 369
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29446abe303e5824fb8df171b5c34704
+      internalID: 1412763449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_242
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 78
+        width: 827
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99188825168f4cb49a4f62236687f56e
+      internalID: 1964169919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_243
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 150
+        width: 742
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0075206317eb489d71326e2914440
+      internalID: -397421611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_244
+      rect:
+        serializedVersion: 2
+        x: 6903
+        y: 261
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336c6afbe84da9468ceccdb627461f2
+      internalID: -717178176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_245
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 249
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879855d47154f2489d381a2c3d08112
+      internalID: 626968748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_246
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 0
+        width: 1936
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e5250d21dad549a6d0f6f9c17426f
+      internalID: 360957630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_247
+      rect:
+        serializedVersion: 2
+        x: 6901
+        y: 177
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a16c49b83f3c845a5e59c2d212c82d
+      internalID: -578912874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_248
+      rect:
+        serializedVersion: 2
+        x: 7004
+        y: 157
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6849a7ea26f092c41891b1bc0aca4ba3
+      internalID: -1802605255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_249
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 444
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751ac8e3c3e8e74788a169ad123526d
+      internalID: -1493060965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_250
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 26
+        width: 322
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f3faac958c974c914cd6e771d0344
+      internalID: 1845000555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_251
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 22
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f701794eafe648967943fedaaafbc
+      internalID: -264526086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_252
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 14
+        width: 330
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544d3751ddc8b248aca291585995230
+      internalID: 398719421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_253
+      rect:
+        serializedVersion: 2
+        x: 7756
+        y: 0
+        width: 406
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ffc9b2af3b0d84dbbb98a6203a2d44
+      internalID: -51154497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_254
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 39
+        width: 332
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 20, z: 30, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f48da4fa269e449a828792cb9ceb56
+      internalID: -963529971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_255
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 62
+        width: 156
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20888a095026ab24f9e50b6cb42c24c2
+      internalID: 930667095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_256
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 58
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007cf7e1c2d1814da3060632b3db053
+      internalID: -865157322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_257
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 10
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c525746e689948924f36b5c1fb5f3
+      internalID: -1404199016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_258
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 959
+        width: 962
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e532668a7b20ee4fa771a9b6e5f2b4d
+      internalID: -121751105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_259
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 134
+        width: 824
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f576890aee128e44a0425441f925da7
+      internalID: -513617212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_260
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 3253
+        width: 910
+        height: 828
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24de2fd270abb419b9ef6aa1695f5e
+      internalID: -1645557549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_4
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 3730
+        width: 844
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19cc38a9b383f449be0d45bf453cb4
+      internalID: -208257187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreBoard_5
+      rect:
+        serializedVersion: 2
+        x: 7466
+        y: 399
+        width: 81
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8184d029ae82943a30f292f8479726
+      internalID: -1241307990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scoreBoard_121: -692181704
+      scoreBoard_180: 344810865
+      scoreBoard_155: -1762056369
+      scoreBoard_252: 398719421
+      scoreBoard_117: 1319489125
+      scoreBoard_184: 657528293
+      scoreBoard_107: -2112740444
+      scoreBoard_233: 976538375
+      scoreBoard_186: -1089531710
+      scoreBoard_151: 1522278081
+      scoreBoard_140: -205878304
+      scoreBoard_173: -64086487
+      scoreBoard_103: -1649254489
+      scoreBoard_2: 145674296
+      scoreBoard_257: -1404199016
+      scoreBoard_241: 1412763449
+      scoreBoard_127: 2123230466
+      scoreBoard_77: 34153442
+      scoreBoard_181: -1544024036
+      scoreBoard_132: 1561086784
+      scoreBoard_18: 830412603
+      scoreBoard_145: 1357207044
+      scoreBoard_153: -1683046193
+      scoreBoard_158: 724707677
+      scoreBoard_82: 744664371
+      scoreBoard_166: 851775170
+      scoreBoard_60: 1859412066
+      scoreBoard_197: -1752180074
+      scoreBoard_35: 179628666
+      scoreBoard_12: 1148714684
+      scoreBoard_17: 402814624
+      scoreBoard_48: 912049781
+      scoreBoard_137: -293970753
+      scoreBoard_144: 941291076
+      scoreBoard_112: -465815182
+      scoreBoard_67: 775047556
+      scoreBoard_203: -1787074299
+      scoreBoard_237: -1869096628
+      scoreBoard_255: 930667095
+      scoreBoard_217: 375807551
+      scoreBoard_57: 503435041
+      scoreBoard_69: -1857187566
+      scoreBoard_109: 1522022641
+      scoreBoard_220: -409266228
+      scoreBoard_118: 2023620144
+      scoreBoard_0: 260360464
+      scoreBoard_243: -397421611
+      scoreBoard_72: 213376670
+      scoreBoard_149: 1941549949
+      scoreBoard_175: -47469843
+      scoreBoard_225: -644762323
+      scoreBoard_250: 1845000555
+      scoreBoard_235: -1721473308
+      scoreBoard_81: -1818599559
+      scoreBoard_84: 66422259
+      scoreBoard_65: -1073236842
+      scoreBoard_86: -1020811886
+      scoreBoard_100: 1315673657
+      scoreBoard_45: 1459702939
+      scoreBoard_126: -1645680687
+      scoreBoard_102: 1402560149
+      scoreBoard_227: 1436070245
+      scoreBoard_154: 848053427
+      scoreBoard_120: 831136099
+      scoreBoard_124: 35878319
+      scoreBoard_29: -258203275
+      scoreBoard_207: 409897312
+      scoreBoard_254: -963529971
+      scoreBoard_3: 104143563
+      scoreBoard_50: -840806279
+      scoreBoard_228: -135465810
+      scoreBoard_1: 867072182
+      scoreBoard_157: 746677735
+      scoreBoard_179: 1886294119
+      scoreBoard_10: 209355752
+      scoreBoard_248: -1802605255
+      scoreBoard_247: -578912874
+      scoreBoard_183: -1339249675
+      scoreBoard_106: -1356971592
+      scoreBoard_111: -1825585988
+      scoreBoard_122: -783578098
+      scoreBoard_15: 848877904
+      scoreBoard_46: 995978388
+      scoreBoard_131: 1385487198
+      scoreBoard_165: 1471126750
+      scoreBoard_114: 505632023
+      scoreBoard_54: -1887536732
+      scoreBoard_194: 1208415295
+      scoreBoard_105: 1112335070
+      scoreBoard_162: 320286386
+      scoreBoard_224: 784247353
+      scoreBoard_143: 943656676
+      scoreBoard_37: -40940714
+      scoreBoard_256: -865157322
+      scoreBoard_87: -753030726
+      scoreBoard_70: 716691178
+      scoreBoard_85: 600470897
+      scoreBoard_34: 1176300148
+      scoreBoard_251: -264526086
+      scoreBoard_226: -2054051090
+      scoreBoard_164: -1530721793
+      scoreBoard_21: 1983164102
+      scoreBoard_36: 1407878224
+      scoreBoard_259: -513617212
+      scoreBoard_185: -534293805
+      scoreBoard_71: -1298347616
+      scoreBoard_138: 443332669
+      scoreBoard_168: 1145348251
+      scoreBoard_42: -496665674
+      scoreBoard_89: 273582701
+      scoreBoard_93: -338477740
+      scoreBoard_91: -366871009
+      scoreBoard_98: 371290692
+      scoreBoard_231: -951859808
+      scoreBoard_9: 1058290896
+      scoreBoard_193: -1650396263
+      scoreBoard_230: 1884230584
+      scoreBoard_169: -1510837196
+      scoreBoard_246: 360957630
+      scoreBoard_195: -1642107364
+      scoreBoard_26: 1523605993
+      scoreBoard_134: 412181816
+      scoreBoard_174: -1520005299
+      scoreBoard_201: 1907268165
+      scoreBoard_148: 670097112
+      scoreBoard_236: -2008052244
+      scoreBoard_222: 914014026
+      scoreBoard_25: 721743803
+      scoreBoard_90: -694314655
+      scoreBoard_192: -537186805
+      scoreBoard_43: -2005587517
+      scoreBoard_150: 1065306828
+      scoreBoard_218: -264937574
+      scoreBoard_83: -757636103
+      scoreBoard_216: 159524274
+      scoreBoard_200: 1287639712
+      scoreBoard_177: -1749536039
+      scoreBoard_110: 2088383719
+      scoreBoard_198: 1838208506
+      scoreBoard_234: -2086658640
+      scoreBoard_7: -1446299800
+      scoreBoard_147: 1435246254
+      scoreBoard_239: 629012873
+      scoreBoard_125: -1938194538
+      scoreBoard_78: -280727322
+      scoreBoard_258: -121751105
+      scoreBoard_99: 2019860675
+      scoreBoard_79: 1488818033
+      scoreBoard_20: 900452056
+      scoreBoard_44: 374024942
+      scoreBoard_214: 1367675657
+      scoreBoard_178: 597304595
+      scoreBoard_39: -1906150124
+      scoreBoard_113: 4149536
+      scoreBoard_199: -111959518
+      scoreBoard_249: -1493060965
+      scoreBoard_189: 842237622
+      scoreBoard_33: -1174906097
+      scoreBoard_101: 1046573927
+      scoreBoard_32: -1911545025
+      scoreBoard_61: -1937328340
+      scoreBoard_215: -1863121199
+      scoreBoard_5: -1241307990
+      scoreBoard_202: 745551598
+      scoreBoard_59: 1849500972
+      scoreBoard_213: -231659463
+      scoreBoard_49: 1481976786
+      scoreBoard_229: 492071347
+      scoreBoard_8: 383310950
+      scoreBoard_204: 737856761
+      scoreBoard_129: 738420745
+      scoreBoard_160: -246529793
+      scoreBoard_75: -610507662
+      scoreBoard_41: -108849109
+      scoreBoard_221: -1500987465
+      scoreBoard_141: -576552499
+      scoreBoard_244: -717178176
+      scoreBoard_130: -925099612
+      scoreBoard_97: -637419604
+      scoreBoard_128: 208669675
+      scoreBoard_176: -1723680744
+      scoreBoard_58: 387830106
+      scoreBoard_188: -1951210854
+      scoreBoard_38: -2074015659
+      scoreBoard_73: -607956911
+      scoreBoard_191: -822311537
+      scoreBoard_123: 1604514175
+      scoreBoard_64: -762601671
+      scoreBoard_28: 222322652
+      scoreBoard_68: -900227554
+      scoreBoard_240: -1922860876
+      scoreBoard_6: 998419416
+      scoreBoard_95: -831835370
+      scoreBoard_56: -47251410
+      scoreBoard_182: 1943860893
+      scoreBoard_51: -1248428386
+      scoreBoard_40: -1935874505
+      scoreBoard_52: 620363884
+      scoreBoard_53: -1091520399
+      scoreBoard_62: 1456772489
+      scoreBoard_172: -1126780192
+      scoreBoard_80: 1124376777
+      scoreBoard_156: -1514184194
+      scoreBoard_245: 626968748
+      scoreBoard_196: 904005091
+      scoreBoard_136: 1808217283
+      scoreBoard_92: -1710865346
+      scoreBoard_55: -1880540448
+      scoreBoard_219: 491685958
+      scoreBoard_232: 1922247527
+      scoreBoard_187: 621973320
+      scoreBoard_210: -382965632
+      scoreBoard_27: 2036046021
+      scoreBoard_116: 1274445872
+      scoreBoard_133: -528327781
+      scoreBoard_24: -1874550332
+      scoreBoard_66: 942243222
+      scoreBoard_23: 33262175
+      scoreBoard_76: 25329681
+      scoreBoard_88: -26109913
+      scoreBoard_31: -1284766080
+      scoreBoard_171: 1625818784
+      scoreBoard_142: -1559434528
+      scoreBoard_206: -1917389646
+      scoreBoard_96: 985527966
+      scoreBoard_13: 1430358000
+      scoreBoard_22: -570913694
+      scoreBoard_170: 596459188
+      scoreBoard_135: 819674865
+      scoreBoard_190: -1623843656
+      scoreBoard_74: 894789497
+      scoreBoard_94: -217281567
+      scoreBoard_30: 264696230
+      scoreBoard_211: 1606455824
+      scoreBoard_19: -602053842
+      scoreBoard_146: 1749431583
+      scoreBoard_119: 1011223473
+      scoreBoard_4: -208257187
+      scoreBoard_209: 1115526695
+      scoreBoard_139: 1275982386
+      scoreBoard_161: -971255724
+      scoreBoard_260: -1645557549
+      scoreBoard_115: -1500133760
+      scoreBoard_63: -1361961874
+      scoreBoard_212: 1400706243
+      scoreBoard_238: -501160470
+      scoreBoard_152: -7563997
+      scoreBoard_163: -1863826479
+      scoreBoard_14: -423759820
+      scoreBoard_242: 1964169919
+      scoreBoard_16: -1412851323
+      scoreBoard_205: -1611847116
+      scoreBoard_223: -1066572817
+      scoreBoard_47: 1632308698
+      scoreBoard_208: -1031969583
+      scoreBoard_108: 1434100661
+      scoreBoard_253: -51154497
+      scoreBoard_167: -1084067732
+      scoreBoard_11: 2321932
+      scoreBoard_104: 1363370216
+      scoreBoard_159: -947333966
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

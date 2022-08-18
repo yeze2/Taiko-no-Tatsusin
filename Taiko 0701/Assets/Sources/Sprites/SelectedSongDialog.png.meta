@@ -1,0 +1,5878 @@
+fileFormatVersion: 2
+guid: 36047a69842de7746b824936435bcb99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectedSongDialog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4884
+        width: 6215
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf4e95001419d944ad1895f234446b9
+      internalID: -1456989390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_1
+      rect:
+        serializedVersion: 2
+        x: 6235
+        y: 5325
+        width: 569
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51909804fea114f46853f88947713b3a
+      internalID: 1520067860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_2
+      rect:
+        serializedVersion: 2
+        x: 6833
+        y: 5423
+        width: 580
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb222b89a21634c856500a8996746f
+      internalID: 1641157403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_3
+      rect:
+        serializedVersion: 2
+        x: 7472
+        y: 4922
+        width: 417
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a984941e8c03ce44093134b5801a81b7
+      internalID: 844680402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_4
+      rect:
+        serializedVersion: 2
+        x: 6235
+        y: 4957
+        width: 569
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b774dc4d20484286434e07ef0b70c
+      internalID: -540336112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_5
+      rect:
+        serializedVersion: 2
+        x: 6836
+        y: 5160
+        width: 579
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381f32e3e3cc264ab5689aa3ab82cf6
+      internalID: -333102134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_6
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 5059
+        width: 224
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb565c122a95d545adee37b81c1148a
+      internalID: 288152092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_7
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 5094
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a349e32b51b7843b5df1c68ba078dc
+      internalID: -612854252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_8
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 5044
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06391fb1681ab246b1fbf5a0ccca625
+      internalID: -1026422432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_9
+      rect:
+        serializedVersion: 2
+        x: 7468
+        y: 4786
+        width: 404
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df45778da629894989bf12f40410917
+      internalID: -325243553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_10
+      rect:
+        serializedVersion: 2
+        x: 6857
+        y: 4979
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408fd27ae9c6544d91a1fbe6022e898
+      internalID: -323697630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_11
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 4948
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf17b9eeb514d743ad0c532abbcb34e
+      internalID: -1500095188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_12
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 4959
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288e166ff6a67a4483d8ce6d0dfe66e
+      internalID: 2139846988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_14
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 4686
+        width: 644
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d9e79ce3093b348a724f9892741087
+      internalID: -341283754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_15
+      rect:
+        serializedVersion: 2
+        x: 6891
+        y: 4688
+        width: 579
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b91678c3685341b666b616b280836
+      internalID: -1639700669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_16
+      rect:
+        serializedVersion: 2
+        x: 7468
+        y: 4129
+        width: 421
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c398ac258d614c4988891fe76f0084d
+      internalID: 2091055562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_17
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 4421
+        width: 644
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5923b9b1299d4eb6979167a2a36bd
+      internalID: -749825855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_18
+      rect:
+        serializedVersion: 2
+        x: 6891
+        y: 4424
+        width: 579
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027688c9e92d5544b2fd4d65b36741f
+      internalID: 229414232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_19
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 4340
+        width: 335
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7276ce2a9dd434dbad4d53f383fe44
+      internalID: -46537162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_20
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 4158
+        width: 644
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599ce0f6bc3ba248908983a4fde649e
+      internalID: 842032566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_21
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 4281
+        width: 169
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50911b18b7ec8104695d919ace78b2db
+      internalID: -387087496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_22
+      rect:
+        serializedVersion: 2
+        x: 7078
+        y: 4358
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7dd5c7fc0bc94e806ea0580c474f6
+      internalID: 2087561921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_23
+      rect:
+        serializedVersion: 2
+        x: 7190
+        y: 4351
+        width: 277
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1a3465bd5ad64a842eae2cfc3f379
+      internalID: -917576616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_24
+      rect:
+        serializedVersion: 2
+        x: 7078
+        y: 4293
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694d2149e7c0844696b72434fe0c5f2
+      internalID: -1419338959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_25
+      rect:
+        serializedVersion: 2
+        x: 7186
+        y: 4274
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5d5d48d678e2408d3d8a88723370e
+      internalID: 1160880415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_26
+      rect:
+        serializedVersion: 2
+        x: 7267
+        y: 4293
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7199755e2a14c439e58541558de103
+      internalID: 2018562695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_27
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 4277
+        width: 370
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74619f61358dc49bc54093265f772e
+      internalID: 1247393069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_28
+      rect:
+        serializedVersion: 2
+        x: 6889
+        y: 4185
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77be09b585b7e449bb74f1300e656c7
+      internalID: -1106481508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_29
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 4189
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c5c270348c5d54c81669537bb8b41b
+      internalID: 611100339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_30
+      rect:
+        serializedVersion: 2
+        x: 7075
+        y: 4231
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090850b4b586fe4d9910f913b6377a6
+      internalID: -994094768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_31
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 4159
+        width: 177
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d7cea5f8f09e548806ea7b39fa3c3b
+      internalID: 855151270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_32
+      rect:
+        serializedVersion: 2
+        x: 7078
+        y: 4181
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f19f7a9a014940b2c0fb9baf48bae
+      internalID: 1711662886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_33
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 3893
+        width: 644
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62cb5b1355a85e4e9d837953f1f0ddb
+      internalID: -484343271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_34
+      rect:
+        serializedVersion: 2
+        x: 6882
+        y: 4085
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee06fbf51d21d42bb48a029ebcc12d
+      internalID: 305554797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_35
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 4085
+        width: 23
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5bcc3a1bf0674ba1d7ce9c55e3bfd
+      internalID: 1249487607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_36
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 4116
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef5d3eb688048a42bff035e5aa6f955
+      internalID: 1838759127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_37
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 4109
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53dc082d3ca614892daf85b8e2543c
+      internalID: -1512919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_38
+      rect:
+        serializedVersion: 2
+        x: 7467
+        y: 4039
+        width: 189
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe4c596920abb4e9ff40979c109268
+      internalID: 417807819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3693
+        width: 1009
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67862d1b6cbacab4e91400e279d65cde
+      internalID: -451610855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_40
+      rect:
+        serializedVersion: 2
+        x: 6882
+        y: 3989
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1ee96e5a9580458f2e12e6d9625ea
+      internalID: -254056720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_41
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 3989
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa0417529ac7a47bde74ba049b58e4
+      internalID: -115636808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_42
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 4050
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c16f423e25d244481a83d1077f84a2
+      internalID: 1186961128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_43
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 4039
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9b1fab4665d7546b31d69d2c5fa199
+      internalID: 1661132720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_44
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 3659
+        width: 237
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4cbfaa13b5aa4995978d30c119d47
+      internalID: 263936897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_45
+      rect:
+        serializedVersion: 2
+        x: 7067
+        y: 3989
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b11a784954d74c8ce01b3ee98a689
+      internalID: 2021557423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_46
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 3965
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4eccfe37b2af4a8177cd4b097af23
+      internalID: -1766292667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_47
+      rect:
+        serializedVersion: 2
+        x: 7467
+        y: 3965
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90899c49235123c4d80faca549a3f04a
+      internalID: 1896152202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_48
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 3685
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b27d3a387af44b80587f07532dafe
+      internalID: -659467119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_49
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 3712
+        width: 216
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1162dbeb3e63f45b5df5d09303c3bd
+      internalID: 212161994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_50
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 3675
+        width: 229
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a20572a19bff748aaa9d6025d5cf8c
+      internalID: -1323648360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_51
+      rect:
+        serializedVersion: 2
+        x: 6889
+        y: 3892
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abd51ae1a65a0458b8d56eb16b7449
+      internalID: -1219255059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_52
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 3892
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c0e2b3786f73d47b3c99ae971055e4
+      internalID: 816320215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_53
+      rect:
+        serializedVersion: 2
+        x: 7067
+        y: 3924
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de018789689afbe49b6f1c8166610d16
+      internalID: -1901495084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_54
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 3896
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f11123daa8209499fff930557bc9bb
+      internalID: 1052033719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_55
+      rect:
+        serializedVersion: 2
+        x: 7483
+        y: 3908
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1be428bf74f2644897179c1097eae7
+      internalID: -310457262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_56
+      rect:
+        serializedVersion: 2
+        x: 6219
+        y: 3765
+        width: 274
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee002e19995434c99d41ca5bf071a9
+      internalID: -374116575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_57
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 3788
+        width: 238
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd0d7c716c63d4784c0c174953ef00
+      internalID: 838076685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_58
+      rect:
+        serializedVersion: 2
+        x: 6789
+        y: 3796
+        width: 227
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b61ed17e7a0e4f8117f3f9d97286f
+      internalID: 1085633439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_59
+      rect:
+        serializedVersion: 2
+        x: 7042
+        y: 3809
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a9088d242c8248811d421c9006cf3
+      internalID: -92295285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_60
+      rect:
+        serializedVersion: 2
+        x: 7094
+        y: 3819
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6face952e7b5d940a7a97db7a907f6b
+      internalID: -347437305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_61
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 3835
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf98a512d2fc674e86b91c9e7bf18a9
+      internalID: 1966079446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_62
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3723
+        width: 953
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe6559948f15f44b3ee8abfd6d0ea5
+      internalID: -1763541464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_63
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 3605
+        width: 163
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d39202a6a14447892d67062e1945b
+      internalID: 791226616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_64
+      rect:
+        serializedVersion: 2
+        x: 7094
+        y: 3750
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed9cd7e2fa458741bf8ab23542172eb
+      internalID: 785579300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_65
+      rect:
+        serializedVersion: 2
+        x: 7476
+        y: 3758
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e3dc4e576aec499e7a80515bb9d66
+      internalID: -384418744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_66
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3396
+        width: 233
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43b85b804ba6cc489c40de448f78e81
+      internalID: 2125920670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_67
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 3434
+        width: 260
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462a324b0a90164e80773a744d326ef
+      internalID: 1842694045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_68
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 3434
+        width: 356
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6cf395ad71b948b28224abad7fa96
+      internalID: 1375502865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_69
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 3650
+        width: 261
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764558a4904996448790be4b2904021
+      internalID: -1120456818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_70
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 3661
+        width: 243
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165929e4a7f5c0c4882bbacc88686f93
+      internalID: -2012303921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_71
+      rect:
+        serializedVersion: 2
+        x: 6758
+        y: 3662
+        width: 231
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129a8f69cb4f1f47b6f6eb54bbd3020
+      internalID: 1221154172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_72
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 3700
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b5bb5adeec1e479a2bd372e147f46
+      internalID: 1725143304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_73
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 3688
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9797af51e1fe6849b119d9bd4209031
+      internalID: -221841570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_74
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 3715
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039d545332dd2741aa9f729ddad3189
+      internalID: -1549384772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_75
+      rect:
+        serializedVersion: 2
+        x: 7468
+        y: 3688
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b7d135a28fa74c88773aec394c1d1
+      internalID: -846684337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_76
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3444
+        width: 940
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b948969242ec654588ea20d1138fa24
+      internalID: 125812952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_77
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3444
+        width: 944
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763dd2b149d62154fbd9ebc6c9449b1b
+      internalID: -1269439440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_78
+      rect:
+        serializedVersion: 2
+        x: 6211
+        y: 3630
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa32ca838a0544aa29e1b510024454
+      internalID: 838194422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_79
+      rect:
+        serializedVersion: 2
+        x: 7005
+        y: 3630
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf222a94387f8e04096556f91ef93e89
+      internalID: 561580950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_80
+      rect:
+        serializedVersion: 2
+        x: 7063
+        y: 3642
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c4373170fe4942a3718922b404978
+      internalID: -910643975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_81
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2915
+        width: 282
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ecd38f29bba84bb3abdc0aa5f3937
+      internalID: -352568162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_82
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 3185
+        width: 243
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e32102ba403624a9348a23b22b8243
+      internalID: -1851010327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_83
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 3203
+        width: 273
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fd2a9be6f67f4ca5eafaf2488bd4b
+      internalID: 1534628541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_84
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 3296
+        width: 259
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07bd16eb7933f641a1d93c2ebc37cf0
+      internalID: -1564167397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_85
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 3219
+        width: 350
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd198c95e108fc45a2071f0c2c5babf
+      internalID: 1582168418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_86
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 2947
+        width: 256
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f94528689168942a3cb546e74258ef
+      internalID: -1745721531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_87
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2938
+        width: 252
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c66b64df4f2a4885b9f4836ce05b8
+      internalID: -1240580892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_88
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 2939
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf2c12142c2a047a360c23f047a26d
+      internalID: 47921906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_89
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 2691
+        width: 248
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab9fbe42f33fb48a90eeafc0567d22
+      internalID: -682430894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_90
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 3029
+        width: 508
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da8666fec46a341951ee3b9badaf9b
+      internalID: 897943613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_91
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 2710
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35cacb70a6cd37489082232b4735ac3
+      internalID: 1376597522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_92
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 2692
+        width: 237
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f66771d77a08ab4eaecc7a62e2416aa
+      internalID: 1504752211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_93
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 2941
+        width: 496
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953a792dbebbd043ab9f0ac1da26d13
+      internalID: 2124279982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_94
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2846
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f419226e5cd8941917e96aa81f78fd
+      internalID: 1062352150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_95
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 2841
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4dbc4fe6fed2479d4a513d1e57ef0
+      internalID: -1964704656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_96
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2464
+        width: 303
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58b10a28f64a84aa7fc08d9a2cfefc
+      internalID: -1569943071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_97
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2441
+        width: 258
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6327d60d9aa9b49b999edc5df6d587
+      internalID: 1341095559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_98
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2438
+        width: 295
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ede71a2b89254592428dff3c0ad93
+      internalID: -673842765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_99
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 2414
+        width: 244
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9898b0c50d42d14689dbcc766b545ce
+      internalID: 715377506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_100
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2742
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061e1060f03bac49ad6c4726158934e
+      internalID: -451270803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_101
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 2737
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49aba0d9208804195728c627932db8
+      internalID: -406332933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_102
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2638
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169048b24196aa5408e3b7b71c33f771
+      internalID: -79529056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_103
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 2633
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366625e7c9718a544b2cff8d01a6c789
+      internalID: 1963200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_104
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 2199
+        width: 302
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90d8362e1385f4ba6a81402bad409c
+      internalID: -1791247170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_105
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2534
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee0f4332f6c65f4c86f270b029eb005
+      internalID: 174945332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_106
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 2211
+        width: 225
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e10eddfcfff514ab112f4dc8baa75a
+      internalID: 1446159086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_107
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 2200
+        width: 328
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31717b43a71766448ab532bd154e75c
+      internalID: -741615972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_108
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2430
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb27e036f11194699f0a6b274821ae
+      internalID: -426807309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_109
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2086
+        width: 944
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f662e55d7b3af34b9ee8d1db308f79e
+      internalID: -2074702182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_110
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2333
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58e3ee4ad16aa43a2380c594274f3c
+      internalID: -1312422283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_111
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2326
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995cddaefb6e2c147a51c554d76ea8ea
+      internalID: -444702484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_112
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2271
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173ea26a7afd194bbb317f307459e28
+      internalID: 1751094417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_113
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2222
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aafc0e56c85d7469d448433a6971a1
+      internalID: 1756447598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_114
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2205
+        width: 944
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1457dd68087304fbe88c3801bc4773
+      internalID: -340818994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_115
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2086
+        width: 171
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55669bfe27e07844b8da9f1f21760fe
+      internalID: 1002977318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_116
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2086
+        width: 203
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0956982b2e764197567f0f041d8c8
+      internalID: 1674039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_117
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2094
+        width: 212
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f21dcbfd25d504c9ebe71525877491
+      internalID: -1376232215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_118
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2090
+        width: 219
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8da45612d86f543aab328153a8c0a9
+      internalID: -708683636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_119
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2102
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccbe7d8cb5422848ab88a8e86809fa6
+      internalID: -1390293767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_120
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2086
+        width: 943
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a9025e4599d714b87aa1d2b81b8748
+      internalID: 1724964992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_121
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 2094
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1dcb828af2de46ac140d7f6c68f71
+      internalID: -1045516860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_122
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 0
+        width: 2860
+        height: 2143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9a9d9a3221ca4598e2b6735ace69f
+      internalID: 1518149539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_123
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2051
+        width: 804
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4f37db78585f4c9b8230f008da9c1
+      internalID: -2124058946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_124
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2067
+        width: 805
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b971674f9e05347b993eaf874a3cf2
+      internalID: -1127358530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_125
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1645
+        width: 1009
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2317eb0a7f685447a85dcfc1e22f406
+      internalID: -1530549710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_126
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1795
+        width: 945
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa227b4ed2f3be45aa0db06996e8d99
+      internalID: -2102335644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_127
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1997
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc96a7f13379324383bed04c490622b
+      internalID: -698594789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_128
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 803
+        width: 1464
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7760da7209626a54a9c4a3e8d1c4fc5f
+      internalID: -339091428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_129
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1978
+        width: 943
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5dc4053b809f4429482add179e69fb
+      internalID: -1464784054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_130
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1997
+        width: 944
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8522717baf8294d82ad1e4455c0fe0
+      internalID: 2065804332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_131
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1951
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821b202c25077547a7e665d6848bfb7
+      internalID: -271729818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_132
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1916
+        width: 943
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b6c0548242d24d8f7258d9413acd6
+      internalID: -1765092472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_133
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1932
+        width: 944
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f4f5125fcb9444b87d6bb86f2ba2c
+      internalID: 1889664900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_134
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1851
+        width: 943
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac03e7c906e4354086583fb6369f41e
+      internalID: 73578195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_135
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1870
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10b356d1c0e8d4e9d512929b73e8fa
+      internalID: -12620795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_136
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1697
+        width: 185
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25556752ead5446947878d92a02f2a
+      internalID: 1226288362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_137
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1786
+        width: 943
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c803069dd64524192a2c9829514abe
+      internalID: -293988025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_138
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1786
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b9098435b5d44b8b479920701f122
+      internalID: 853401645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_139
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1662
+        width: 677
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8548575b2c7ee564bac8e0b80c01f1b9
+      internalID: -1721927867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_140
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1701
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94247499bcd38934cbf4ea4b4926cb2f
+      internalID: -1779543802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_141
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1724
+        width: 943
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e259651e983242a4acdf1d45ecce6
+      internalID: 1902874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_142
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1724
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaea5b32488ef145bf69b9cc1b0540c
+      internalID: -76758613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_143
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1647
+        width: 242
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019748401b542154f8c03d0b01c87be9
+      internalID: -1323527062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_144
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1643
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a87c6d71c7914e92e5d46283f92c2
+      internalID: -35864963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_145
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1658
+        width: 943
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6000f2ec3dbcd498ef35998f7a9790
+      internalID: -1799619917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_146
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1658
+        width: 944
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98b4e7cac6786478528e77a5533119
+      internalID: 1364480641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_147
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 148
+        width: 953
+        height: 1489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76ba1247cc5b748ad420e5ff533a20
+      internalID: -756387837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_148
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 148
+        width: 944
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731cdfb95fdc6394e8d5e829d81e9528
+      internalID: -1914854523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_149
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1536
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4ba47653c80c24892a75847cf3fd08
+      internalID: 2085259869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_150
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1597
+        width: 943
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56480127c3ab93346b3d0e070e173d12
+      internalID: -1752236317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_151
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1597
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623b8f47aa65c746ae0c0fbea318ab8
+      internalID: 1572076115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_152
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1531
+        width: 943
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf616aa11747b4d9c05513f506338c
+      internalID: -1323942060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_153
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1531
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2f578d33e605469e1b15c10b9c98a
+      internalID: -1022999073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_154
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1454
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd08b9856d464488c29c369482b7ba
+      internalID: -2144164349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_155
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1466
+        width: 943
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada74b01308a50e44a1c444958b539c7
+      internalID: -2080770400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_156
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1466
+        width: 944
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb2656af0d73441abddc3da9413d21
+      internalID: -2093291850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_157
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1373
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c38690b92618e4a96d63aba730fbf1
+      internalID: 755637650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_158
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1404
+        width: 943
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6e6014f77c344abc17885ba53f469
+      internalID: 161187913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_159
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1404
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157635fff83001b409ed39b8ef6612d4
+      internalID: -928360500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_160
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1292
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4f53432c84e245a091fcf22d442e4
+      internalID: -763792785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_161
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1339
+        width: 943
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1e3ce404c3424397107b457a5ed24
+      internalID: -260336416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_162
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1339
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6679a2cf883c4f9deaeb3cf041f00
+      internalID: -2049539628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_163
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1212
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430bfa55a66d45499970bc68d8c18aa
+      internalID: -325436530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_164
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1206
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b11db617c73c4e80105dd50cdbfce
+      internalID: 1627787850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_165
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1219
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f372c514ac336ab43a5480290abbd2e9
+      internalID: 280712174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_166
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1223
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311cfdc41d62f71469f361c73ea35fa8
+      internalID: 1099284603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_167
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1250
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e569a9cf6ad57144a9ccf24c7ae172b
+      internalID: -72742784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_168
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1275
+        width: 944
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0bfed0936b24419613cae0773be77
+      internalID: 928637825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_169
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1142
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef5dbc2e241fa46b86900f9bca2207
+      internalID: -934310649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_170
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 1193
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2171d8e576c69a14a9094834939543a7
+      internalID: -2046619090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_171
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1211
+        width: 944
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54f6630f506834383c839928b8035c
+      internalID: 533858891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_172
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1134
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1278ef77c239d74185135cedbad3590
+      internalID: 482562155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_173
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1096
+        width: 117
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb5c4fb94da724ea063cca345af10b
+      internalID: 591227140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_174
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1142
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c61e464f7f2084a85a3de229aa00a2
+      internalID: 1943818378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_175
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1146
+        width: 944
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252052d06591a044b2a2a546a2915ec
+      internalID: -897804508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_176
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1054
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bab40cb1042fb4a9d210fa9da43cfb
+      internalID: 1388115210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_177
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1062
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63bbf7a9daced448874d421c9fae2d9
+      internalID: -2051321321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_178
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1065
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc372eaca20f4544828571e7440f64b
+      internalID: 131156222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_179
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1084
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17e3cba3a239b44883bf9cb48d7347
+      internalID: 856678664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_180
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 973
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754406fda64a7342986da3ae49d31d7
+      internalID: -1136279333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_181
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 992
+        width: 117
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88102cc30cfdbf4abab4878cd4a7686
+      internalID: 1757415881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_182
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 984
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1eb8abb972ac94caee07abc874fd49
+      internalID: -1626691732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_183
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 984
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454dd5bc7d503884f9ca091cdfb47047
+      internalID: -1321696075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_184
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1019
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa077ac09ec7d4d846ea20ff3a87ab
+      internalID: 1633795845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_185
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 894
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c38b6f20d45c458941d221c5a12de
+      internalID: -1068852117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_186
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 888
+        width: 117
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbae4cea8e7d94099c28a1dd2c470e
+      internalID: -246498357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_187
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 903
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393aeb649b03ed34bb2c5b8709e4f4c2
+      internalID: -1226632711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_188
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 903
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa54eb5c90694479cfcf8cb0666670
+      internalID: 1464208137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_189
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 815
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f949986275786534299324864dcaef6b
+      internalID: 2025699322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_190
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 807
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab31d3fa696f75409bdb3bc85de045b
+      internalID: 228823820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_191
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 807
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987927caa884f44fabadb17c9a289b1
+      internalID: -105967529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_192
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 807
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999c712164ebe3428015218135ad4ba
+      internalID: 106144357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_193
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 807
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf6ca768549f11439232c3a532326d2
+      internalID: 851910890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_194
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 734
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6485eb2361d94894218bfcfe099e8
+      internalID: 342392771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_195
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 669
+        width: 676
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa51c0397c9b9124ab28353ce3e2b25e
+      internalID: -1857744856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_196
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 757
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8e66a2a974dcb49808a930e46f6431
+      internalID: -1128078967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_197
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 728
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b605054fbf24845b66f39493eaf0c4
+      internalID: 620428462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_198
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 726
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545f067e48cb494eb6a8be2c1bd2498
+      internalID: 1891924158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_199
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 653
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c1f0be93b5864faf15d56996b4aa4
+      internalID: -2100433521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_200
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 676
+        width: 944
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435b36ff32bce94481b398fd64b622b
+      internalID: 1519139927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_201
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 649
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d204279bcf70e2469d6ad73f581fd41
+      internalID: 312467661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_202
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 645
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c8ecdad7e1854798ab91939682ba6
+      internalID: 824271278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_203
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 572
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5c63b2ab53afa4da41671484851af2
+      internalID: 1803821299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_204
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 534
+        width: 676
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cea1c227d3bd48a96154409b28c8e
+      internalID: -1956481522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_205
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 611
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cea209243cab73498e3d8cedde8b644
+      internalID: -1029195551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_206
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 568
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10186aed913cd1b4a86f8285ce7afc2b
+      internalID: -1994896806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_207
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 595
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a389ab8e0eb05428decd2c81b1964f
+      internalID: 604123824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_208
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 495
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82e98c49e235f43a5df0d79a3c1b45
+      internalID: -48582477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_209
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 546
+        width: 944
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5166f5694944459ad36e694557481
+      internalID: 141204348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_210
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 537
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbb19a536a5d148a9bc857ce308d7a
+      internalID: -1096641032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_211
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 483
+        width: 953
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e740bcf08e36459656c3f7cdfccd6
+      internalID: -2011309906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_212
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 491
+        width: 932
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbe26a584fa774c90f69a938a3824f
+      internalID: -712462455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_213
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 414
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79cca7804780c4db4632386c5ddf55
+      internalID: 1641737686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_214
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 356
+        width: 953
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587d6e1b0fd25e43bf5f1f9fc106180
+      internalID: -430373273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_215
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 403
+        width: 932
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66d512cad6deb44a20f67d08397565
+      internalID: 1374324409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_216
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 333
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7f1a1261108f41b2b8dbcefcc7f8e
+      internalID: -1195900769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_217
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 295
+        width: 944
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3701bd93064ed4786a45ec4efedc21
+      internalID: 1357341706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_218
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 314
+        width: 587
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a221210b68be6e448f2902b4c8de6d9
+      internalID: 632529093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_219
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 326
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a346027d0311149963967afb7966c1
+      internalID: 2034249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_220
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 326
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a4c4af4e8002439016385af90fd77
+      internalID: -1246770058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_221
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 329
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf99e0bb54e29849acc288285c03ac7
+      internalID: -616960363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_222
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 252
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4ca865e93092f4485a709686bd6a59
+      internalID: 14177044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_223
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 229
+        width: 944
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333b4e2939ebbb4b831e39e2e989a29
+      internalID: 1159500379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_224
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 226
+        width: 497
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0368ad04a98c8942be2d63efe594031
+      internalID: -905112934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_225
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 245
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f334a7b2f8d3a48bad9cc77d68e6cd
+      internalID: -51346715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_226
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 245
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d64c1f0e8d5249baa4c0223cc0ce1
+      internalID: 1203265129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_227
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 245
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa65ef8302ad31547be87abb504a63c0
+      internalID: -1147491307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_228
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 248
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8f41576cecfd746941269571b06a43
+      internalID: -1777735527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_229
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 172
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af88ee35c10d8243bbb82ae711a2bfb
+      internalID: 1216197416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_230
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 164
+        width: 944
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae467d203e1460544a8cee013829f04a
+      internalID: -1227941610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_231
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 129
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d65487f27d13a41b303307fd182501
+      internalID: -1304472628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_232
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 125
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3dda595a5a124aa8c27291395bb20
+      internalID: -981668729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_233
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 133
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e73a3c54f2f2d44a94ab40241ff1730
+      internalID: 366189531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_234
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 133
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f7c7f285c019247a31ff0b590d81e7
+      internalID: 79159845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_235
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 148
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bc7c9609f3dc42b14184de1ccad01
+      internalID: 53060827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_236
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 148
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603360b901674d41907785ab9da31c1
+      internalID: -557731900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_237
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 152
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d60eaa3198424d9126d9f14ee39da
+      internalID: -706702146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_238
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 857
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc5ab44d41a1d44835bbd4d768a834
+      internalID: 1631907863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_239
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 14
+        width: 676
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8681c0f7ef99f40469956ce7e6ee7092
+      internalID: 2092320230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_240
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 48
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c898fa4275d42842bb2cb610d2dd65c
+      internalID: 1250448875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_241
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 48
+        width: 185
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db9d0d8d8321b40a9e09b831e705f4
+      internalID: 69107167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_242
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 71
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852761fd03c39f4ab597e5fe914c1f4
+      internalID: 1059687690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_243
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 102
+        width: 944
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce69b2a97bb80e4dbc61c8039986cd9
+      internalID: 284632912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_244
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 25
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16aaacb120c6c44b81f3af1023a94b
+      internalID: 1870937849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_245
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 29
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b04a9ff829256499893184e1dd27c0
+      internalID: 1095635667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_246
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 29
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcbc502ad277434a917717f8e84a133
+      internalID: -1536809123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_247
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 29
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57330a908c5d0bc42b7f9146da2a7318
+      internalID: -619632570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_248
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 71
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c973857ea35e42ba916f1766cd445
+      internalID: -88161831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_249
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 71
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64faba7f61b08da479e750660cdf2491
+      internalID: -2082863069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_250
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 71
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81323faa14d734545a4e2c06c269726f
+      internalID: 1838832172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_251
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 17
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b206aff214d184bbf4f83659ce1a0a
+      internalID: -554997559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_252
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 37
+        width: 944
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123c5bd419b76548baa8abe66461203
+      internalID: -1037721530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_254
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 17
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf897182783153d478f7061ac8110636
+      internalID: 246473823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_255
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 17
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f017a16339b0e641bfdaf8141121758
+      internalID: -1006165230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_257
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 17
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff044842d97424b41ae51d7b71d96993
+      internalID: -1829253156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_258
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 1719
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b69a6069c1fd42afab3fb07e87be8
+      internalID: 634590710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_259
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3197
+        width: 936
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e847de2bf7804ab88098ae537668c
+      internalID: 1814384390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_260
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2947
+        width: 937
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2475b8af27091a4f9f20769bdc5966d
+      internalID: -1930994715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_261
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2700
+        width: 937
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd41b47b820a847807d9160f8c3259
+      internalID: 46529349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 3851
+        width: 938
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a56c6ee0fe67ef45927db6789864120
+      internalID: 422134383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectedSongDialog_262
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 3797
+        width: 942
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2845fa5a3c4b84e83bcd04a6911ecf
+      internalID: 844095517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SelectedSongDialog_18: 229414232
+      SelectedSongDialog_61: 1966079446
+      SelectedSongDialog_102: -79529056
+      SelectedSongDialog_188: 1464208137
+      SelectedSongDialog_67: 1842694045
+      SelectedSongDialog_149: 2085259869
+      SelectedSongDialog_60: -347437305
+      SelectedSongDialog_45: 2021557423
+      SelectedSongDialog_77: -1269439440
+      SelectedSongDialog_89: -682430894
+      SelectedSongDialog_113: 1756447598
+      SelectedSongDialog_131: -271729818
+      SelectedSongDialog_200: 1519139927
+      SelectedSongDialog_133: 1889664900
+      SelectedSongDialog_65: -384418744
+      SelectedSongDialog_259: 1814384390
+      SelectedSongDialog_194: 342392771
+      SelectedSongDialog_69: -1120456818
+      SelectedSongDialog_196: -1128078967
+      SelectedSongDialog_199: -2100433521
+      SelectedSongDialog_47: 1896152202
+      SelectedSongDialog_68: 1375502865
+      SelectedSongDialog_62: -1763541464
+      SelectedSongDialog_170: -2046619090
+      SelectedSongDialog_222: 14177044
+      SelectedSongDialog_187: -1226632711
+      SelectedSongDialog_257: -1829253156
+      SelectedSongDialog_92: 1504752211
+      SelectedSongDialog_205: -1029195551
+      SelectedSongDialog_246: -1536809123
+      SelectedSongDialog_72: 1725143304
+      SelectedSongDialog_126: -2102335644
+      SelectedSongDialog_19: -46537162
+      SelectedSongDialog_20: 842032566
+      SelectedSongDialog_227: -1147491307
+      SelectedSongDialog_114: -340818994
+      SelectedSongDialog_239: 2092320230
+      SelectedSongDialog_217: 1357341706
+      SelectedSongDialog_230: -1227941610
+      SelectedSongDialog_242: 1059687690
+      SelectedSongDialog_5: -333102134
+      SelectedSongDialog_14: -341283754
+      SelectedSongDialog_56: -374116575
+      SelectedSongDialog_79: 561580950
+      SelectedSongDialog_0: -1456989390
+      SelectedSongDialog_33: -484343271
+      SelectedSongDialog_158: 161187913
+      SelectedSongDialog_195: -1857744856
+      SelectedSongDialog_148: -1914854523
+      SelectedSongDialog_178: 131156222
+      SelectedSongDialog_224: -905112934
+      SelectedSongDialog_118: -708683636
+      SelectedSongDialog_52: 816320215
+      SelectedSongDialog_59: -92295285
+      SelectedSongDialog_132: -1765092472
+      SelectedSongDialog_11: -1500095188
+      SelectedSongDialog_7: -612854252
+      SelectedSongDialog_150: -1752236317
+      SelectedSongDialog_164: 1627787850
+      SelectedSongDialog_142: -76758613
+      SelectedSongDialog_206: -1994896806
+      SelectedSongDialog_64: 785579300
+      SelectedSongDialog_98: -673842765
+      SelectedSongDialog_39: -451610855
+      SelectedSongDialog_81: -352568162
+      SelectedSongDialog_235: 53060827
+      SelectedSongDialog_91: 1376597522
+      SelectedSongDialog_160: -763792785
+      SelectedSongDialog_109: -2074702182
+      SelectedSongDialog_211: -2011309906
+      SelectedSongDialog_130: 2065804332
+      SelectedSongDialog_80: -910643975
+      SelectedSongDialog_26: 2018562695
+      SelectedSongDialog_108: -426807309
+      SelectedSongDialog_32: 1711662886
+      SelectedSongDialog_34: 305554797
+      SelectedSongDialog_12: 2139846988
+      SelectedSongDialog_127: -698594789
+      SelectedSongDialog_244: 1870937849
+      SelectedSongDialog_234: 79159845
+      SelectedSongDialog_36: 1838759127
+      SelectedSongDialog_99: 715377506
+      SelectedSongDialog_117: -1376232215
+      SelectedSongDialog_136: 1226288362
+      SelectedSongDialog_123: -2124058946
+      SelectedSongDialog_15: -1639700669
+      SelectedSongDialog_57: 838076685
+      SelectedSongDialog_145: -1799619917
+      SelectedSongDialog_54: 1052033719
+      SelectedSongDialog_162: -2049539628
+      SelectedSongDialog_181: 1757415881
+      SelectedSongDialog_226: 1203265129
+      SelectedSongDialog_87: -1240580892
+      SelectedSongDialog_225: -51346715
+      SelectedSongDialog_144: -35864963
+      SelectedSongDialog_166: 1099284603
+      SelectedSongDialog_216: -1195900769
+      SelectedSongDialog_107: -741615972
+      SelectedSongDialog_53: -1901495084
+      SelectedSongDialog_140: -1779543802
+      SelectedSongDialog_249: -2082863069
+      SelectedSongDialog_84: -1564167397
+      SelectedSongDialog_139: -1721927867
+      SelectedSongDialog_155: -2080770400
+      SelectedSongDialog_83: 1534628541
+      SelectedSongDialog_135: -12620795
+      SelectedSongDialog_88: 47921906
+      SelectedSongDialog_105: 174945332
+      SelectedSongDialog_27: 1247393069
+      SelectedSongDialog_251: -554997559
+      SelectedSongDialog_157: 755637650
+      SelectedSongDialog_176: 1388115210
+      SelectedSongDialog_232: -981668729
+      SelectedSongDialog_252: -1037721530
+      SelectedSongDialog_228: -1777735527
+      SelectedSongDialog_86: -1745721531
+      SelectedSongDialog_63: 791226616
+      SelectedSongDialog_237: -706702146
+      SelectedSongDialog_49: 212161994
+      SelectedSongDialog_71: 1221154172
+      SelectedSongDialog_204: -1956481522
+      SelectedSongDialog_183: -1321696075
+      SelectedSongDialog_13: 422134383
+      SelectedSongDialog_10: -323697630
+      SelectedSongDialog_260: -1930994715
+      SelectedSongDialog_229: 1216197416
+      SelectedSongDialog_40: -254056720
+      SelectedSongDialog_247: -619632570
+      SelectedSongDialog_165: 280712174
+      SelectedSongDialog_29: 611100339
+      SelectedSongDialog_41: -115636808
+      SelectedSongDialog_161: -260336416
+      SelectedSongDialog_213: 1641737686
+      SelectedSongDialog_163: -325436530
+      SelectedSongDialog_137: -293988025
+      SelectedSongDialog_43: 1661132720
+      SelectedSongDialog_22: 2087561921
+      SelectedSongDialog_248: -88161831
+      SelectedSongDialog_218: 632529093
+      SelectedSongDialog_191: -105967529
+      SelectedSongDialog_203: 1803821299
+      SelectedSongDialog_23: -917576616
+      SelectedSongDialog_177: -2051321321
+      SelectedSongDialog_254: 246473823
+      SelectedSongDialog_44: 263936897
+      SelectedSongDialog_78: 838194422
+      SelectedSongDialog_208: -48582477
+      SelectedSongDialog_93: 2124279982
+      SelectedSongDialog_238: 1631907863
+      SelectedSongDialog_221: -616960363
+      SelectedSongDialog_66: 2125920670
+      SelectedSongDialog_147: -756387837
+      SelectedSongDialog_190: 228823820
+      SelectedSongDialog_103: 1963200255
+      SelectedSongDialog_245: 1095635667
+      SelectedSongDialog_46: -1766292667
+      SelectedSongDialog_1: 1520067860
+      SelectedSongDialog_75: -846684337
+      SelectedSongDialog_96: -1569943071
+      SelectedSongDialog_215: 1374324409
+      SelectedSongDialog_28: -1106481508
+      SelectedSongDialog_125: -1530549710
+      SelectedSongDialog_30: -994094768
+      SelectedSongDialog_250: 1838832172
+      SelectedSongDialog_31: 855151270
+      SelectedSongDialog_231: -1304472628
+      SelectedSongDialog_156: -2093291850
+      SelectedSongDialog_207: 604123824
+      SelectedSongDialog_2: 1641157403
+      SelectedSongDialog_4: -540336112
+      SelectedSongDialog_210: -1096641032
+      SelectedSongDialog_262: 844095517
+      SelectedSongDialog_236: -557731900
+      SelectedSongDialog_143: -1323527062
+      SelectedSongDialog_153: -1022999073
+      SelectedSongDialog_76: 125812952
+      SelectedSongDialog_154: -2144164349
+      SelectedSongDialog_180: -1136279333
+      SelectedSongDialog_128: -339091428
+      SelectedSongDialog_85: 1582168418
+      SelectedSongDialog_167: -72742784
+      SelectedSongDialog_122: 1518149539
+      SelectedSongDialog_202: 824271278
+      SelectedSongDialog_243: 284632912
+      SelectedSongDialog_174: 1943818378
+      SelectedSongDialog_219: 2034249838
+      SelectedSongDialog_101: -406332933
+      SelectedSongDialog_110: -1312422283
+      SelectedSongDialog_95: -1964704656
+      SelectedSongDialog_197: 620428462
+      SelectedSongDialog_74: -1549384772
+      SelectedSongDialog_124: -1127358530
+      SelectedSongDialog_111: -444702484
+      SelectedSongDialog_255: -1006165230
+      SelectedSongDialog_256: -640628124
+      SelectedSongDialog_6: 288152092
+      SelectedSongDialog_35: 1249487607
+      SelectedSongDialog_182: -1626691732
+      SelectedSongDialog_134: 73578195
+      SelectedSongDialog_138: 853401645
+      SelectedSongDialog_55: -310457262
+      SelectedSongDialog_42: 1186961128
+      SelectedSongDialog_146: 1364480641
+      SelectedSongDialog_169: -934310649
+      SelectedSongDialog_21: -387087496
+      SelectedSongDialog_94: 1062352150
+      SelectedSongDialog_73: -221841570
+      SelectedSongDialog_253: -2023838932
+      SelectedSongDialog_17: -749825855
+      SelectedSongDialog_82: -1851010327
+      SelectedSongDialog_48: -659467119
+      SelectedSongDialog_120: 1724964992
+      SelectedSongDialog_58: 1085633439
+      SelectedSongDialog_172: 482562155
+      SelectedSongDialog_16: 2091055562
+      SelectedSongDialog_50: -1323648360
+      SelectedSongDialog_223: 1159500379
+      SelectedSongDialog_233: 366189531
+      SelectedSongDialog_104: -1791247170
+      SelectedSongDialog_175: -897804508
+      SelectedSongDialog_212: -712462455
+      SelectedSongDialog_168: 928637825
+      SelectedSongDialog_24: -1419338959
+      SelectedSongDialog_152: -1323942060
+      SelectedSongDialog_192: 106144357
+      SelectedSongDialog_209: 141204348
+      SelectedSongDialog_70: -2012303921
+      SelectedSongDialog_97: 1341095559
+      SelectedSongDialog_240: 1250448875
+      SelectedSongDialog_184: 1633795845
+      SelectedSongDialog_261: 46529349
+      SelectedSongDialog_112: 1751094417
+      SelectedSongDialog_37: -1512919772
+      SelectedSongDialog_159: -928360500
+      SelectedSongDialog_189: 2025699322
+      SelectedSongDialog_129: -1464784054
+      SelectedSongDialog_3: 844680402
+      SelectedSongDialog_193: 851910890
+      SelectedSongDialog_179: 856678664
+      SelectedSongDialog_214: -430373273
+      SelectedSongDialog_151: 1572076115
+      SelectedSongDialog_173: 591227140
+      SelectedSongDialog_198: 1891924158
+      SelectedSongDialog_90: 897943613
+      SelectedSongDialog_186: -246498357
+      SelectedSongDialog_8: -1026422432
+      SelectedSongDialog_38: 417807819
+      SelectedSongDialog_116: 1674039457
+      SelectedSongDialog_121: -1045516860
+      SelectedSongDialog_100: -451270803
+      SelectedSongDialog_119: -1390293767
+      SelectedSongDialog_185: -1068852117
+      SelectedSongDialog_201: 312467661
+      SelectedSongDialog_171: 533858891
+      SelectedSongDialog_220: -1246770058
+      SelectedSongDialog_241: 69107167
+      SelectedSongDialog_25: 1160880415
+      SelectedSongDialog_141: 1902874448
+      SelectedSongDialog_258: 634590710
+      SelectedSongDialog_9: -325243553
+      SelectedSongDialog_51: -1219255059
+      SelectedSongDialog_106: 1446159086
+      SelectedSongDialog_115: 1002977318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
